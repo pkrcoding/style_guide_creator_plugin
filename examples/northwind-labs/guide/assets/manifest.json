@@ -1,0 +1,596 @@
+{
+  "files": [
+    {
+      "path": "assets/logo/primary-full-colour.svg",
+      "purpose": "primary logo, full colour (vector master)",
+      "alt": "Northwind Labs, full colour"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark.svg",
+      "purpose": "primary logo, single colour, solid (for light backgrounds)",
+      "alt": "Northwind Labs, single colour, dark"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark-knockout.svg",
+      "purpose": "primary logo, single colour with inner shapes knocked out (for light backgrounds)",
+      "alt": "Northwind Labs, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/primary-mono-light.svg",
+      "purpose": "primary logo, single colour, solid (reversed, for dark backgrounds)",
+      "alt": "Northwind Labs, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/primary-mono-light-knockout.svg",
+      "purpose": "primary logo, single colour with inner shapes knocked out (reversed, for dark backgrounds)",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-full-colour.svg",
+      "purpose": "symbol logo, full colour (vector master)",
+      "alt": "Northwind Labs symbol, full colour"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark.svg",
+      "purpose": "symbol logo, single colour, solid (for light backgrounds)",
+      "alt": "Northwind Labs symbol, single colour, dark"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark-knockout.svg",
+      "purpose": "symbol logo, single colour with inner shapes knocked out (for light backgrounds)",
+      "alt": "Northwind Labs symbol, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light.svg",
+      "purpose": "symbol logo, single colour, solid (reversed, for dark backgrounds)",
+      "alt": "Northwind Labs symbol, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light-knockout.svg",
+      "purpose": "symbol logo, single colour with inner shapes knocked out (reversed, for dark backgrounds)",
+      "alt": "Northwind Labs symbol, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/primary-full-colour.png",
+      "purpose": "primary logo, full colour (PNG, transparent)",
+      "alt": "Northwind Labs, full colour"
+    },
+    {
+      "path": "assets/logo/primary-full-colour-clearspace.png",
+      "purpose": "primary logo, full colour, with minimum clear space built in",
+      "alt": "Northwind Labs, full colour"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark.png",
+      "purpose": "primary logo, mono dark (PNG, transparent)",
+      "alt": "Northwind Labs, single colour, dark"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark-clearspace.png",
+      "purpose": "primary logo, mono dark, with minimum clear space built in",
+      "alt": "Northwind Labs, single colour, dark"
+    },
+    {
+      "path": "assets/logo/primary-mono-light.png",
+      "purpose": "primary logo, mono light (PNG, transparent)",
+      "alt": "Northwind Labs, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/primary-mono-light-clearspace.png",
+      "purpose": "primary logo, mono light, with minimum clear space built in",
+      "alt": "Northwind Labs, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark-knockout.png",
+      "purpose": "primary logo, mono dark knockout (PNG, transparent)",
+      "alt": "Northwind Labs, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark-knockout-clearspace.png",
+      "purpose": "primary logo, mono dark knockout, with minimum clear space built in",
+      "alt": "Northwind Labs, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/primary-mono-light-knockout.png",
+      "purpose": "primary logo, mono light knockout (PNG, transparent)",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/primary-mono-light-knockout-clearspace.png",
+      "purpose": "primary logo, mono light knockout, with minimum clear space built in",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-full-colour.png",
+      "purpose": "symbol logo, full colour (PNG, transparent)",
+      "alt": "Northwind Labs symbol, full colour"
+    },
+    {
+      "path": "assets/logo/symbol-full-colour-clearspace.png",
+      "purpose": "symbol logo, full colour, with minimum clear space built in",
+      "alt": "Northwind Labs symbol, full colour"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark.png",
+      "purpose": "symbol logo, mono dark (PNG, transparent)",
+      "alt": "Northwind Labs symbol, single colour, dark"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark-clearspace.png",
+      "purpose": "symbol logo, mono dark, with minimum clear space built in",
+      "alt": "Northwind Labs symbol, single colour, dark"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light.png",
+      "purpose": "symbol logo, mono light (PNG, transparent)",
+      "alt": "Northwind Labs symbol, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light-clearspace.png",
+      "purpose": "symbol logo, mono light, with minimum clear space built in",
+      "alt": "Northwind Labs symbol, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark-knockout.png",
+      "purpose": "symbol logo, mono dark knockout (PNG, transparent)",
+      "alt": "Northwind Labs symbol, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark-knockout-clearspace.png",
+      "purpose": "symbol logo, mono dark knockout, with minimum clear space built in",
+      "alt": "Northwind Labs symbol, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light-knockout.png",
+      "purpose": "symbol logo, mono light knockout (PNG, transparent)",
+      "alt": "Northwind Labs symbol, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light-knockout-clearspace.png",
+      "purpose": "symbol logo, mono light knockout, with minimum clear space built in",
+      "alt": "Northwind Labs symbol, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-white.png",
+      "purpose": "Logo (full-colour) on white background",
+      "alt": "Northwind Labs, full colour on a white background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-light-neutral.png",
+      "purpose": "Logo (full-colour) on light-neutral background",
+      "alt": "Northwind Labs, full colour on a light neutral background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-primary.png",
+      "purpose": "Logo (mono-light) on primary background",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Fjord Teal background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-dark.png",
+      "purpose": "Logo (mono-light) on dark background",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a dark neutral background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-secondary.png",
+      "purpose": "Logo (mono-light) on secondary background",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-accent.png",
+      "purpose": "Logo (mono-dark) on accent background",
+      "alt": "Northwind Labs, single colour, dark, with cut-out details on a Daybreak Amber background"
+    },
+    {
+      "path": "assets/favicons/favicon.ico",
+      "purpose": "Browser favicon (16, 32, 48 px) on a solid brand tile"
+    },
+    {
+      "path": "assets/favicons/icon-16.png",
+      "purpose": "App/browser icon 16x16",
+      "alt": "Northwind Labs icon"
+    },
+    {
+      "path": "assets/favicons/icon-32.png",
+      "purpose": "App/browser icon 32x32",
+      "alt": "Northwind Labs icon"
+    },
+    {
+      "path": "assets/favicons/icon-48.png",
+      "purpose": "App/browser icon 48x48",
+      "alt": "Northwind Labs icon"
+    },
+    {
+      "path": "assets/favicons/icon-192.png",
+      "purpose": "App/browser icon 192x192",
+      "alt": "Northwind Labs icon"
+    },
+    {
+      "path": "assets/favicons/icon-512.png",
+      "purpose": "App/browser icon 512x512",
+      "alt": "Northwind Labs icon"
+    },
+    {
+      "path": "assets/favicons/apple-touch-icon.png",
+      "purpose": "Apple touch icon 180x180 (opaque)"
+    },
+    {
+      "path": "assets/favicons/icon-maskable-512.png",
+      "purpose": "Android maskable icon 512x512 (content inside safe circle)"
+    },
+    {
+      "path": "assets/favicons/site.webmanifest",
+      "purpose": "Web app manifest"
+    },
+    {
+      "path": "assets/favicons/head-snippet.html",
+      "purpose": "HTML <head> tags for favicons"
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-avatar-400x400.svg",
+      "purpose": "Editable template: LinkedIn Company page logo",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-avatar-400x400.png",
+      "purpose": "LinkedIn Company page logo (400x400)",
+      "alt": "Northwind Labs symbol, single colour, white (reversed), with cut-out details on a Fjord Teal background",
+      "logoVariant": "mono-light",
+      "logoContrast": 5.95,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-cover-1512x256.svg",
+      "purpose": "Editable template: LinkedIn Company page cover",
+      "note": "Displays at about 1128x191; keep the same ~6:1 ratio. Logo overlaps the lower-left on some layouts. Sources disagree on upload size (1512x256 vs 4200x700); verify on LinkedIn's Page image specs."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-cover-1512x256.png",
+      "purpose": "LinkedIn Company page cover (1512x256)",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": "Displays at about 1128x191; keep the same ~6:1 ratio. Logo overlaps the lower-left on some layouts. Sources disagree on upload size (1512x256 vs 4200x700); verify on LinkedIn's Page image specs."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-personal-banner-1584x396.svg",
+      "purpose": "Editable template: LinkedIn Employee profile banner",
+      "note": "Profile photo overlaps the lower-left."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-personal-banner-1584x396.png",
+      "purpose": "LinkedIn Employee profile banner (1584x396)",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": "Profile photo overlaps the lower-left."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-landscape-1200x627.svg",
+      "purpose": "Editable template: LinkedIn Post image (landscape)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-landscape-1200x627.png",
+      "purpose": "LinkedIn Post image (landscape) (1200x627) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-square-1080x1080.svg",
+      "purpose": "Editable template: LinkedIn Post image (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-square-1080x1080.png",
+      "purpose": "LinkedIn Post image (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-portrait-1080x1350.svg",
+      "purpose": "Editable template: LinkedIn Post image (portrait 4:5)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-portrait-1080x1350.png",
+      "purpose": "LinkedIn Post image (portrait 4:5) (1080x1350) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-avatar-400x400.svg",
+      "purpose": "Editable template: X (Twitter) Profile picture",
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-avatar-400x400.png",
+      "purpose": "X (Twitter) Profile picture (400x400)",
+      "alt": "Northwind Labs symbol, single colour, white (reversed), with cut-out details on a Fjord Teal background",
+      "logoVariant": "mono-light",
+      "logoContrast": 5.95,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/x/x-header-1500x500.svg",
+      "purpose": "Editable template: X (Twitter) Header",
+      "note": "Profile photo overlaps lower-left; top and bottom crop on some devices."
+    },
+    {
+      "path": "assets/social/x/x-header-1500x500.png",
+      "purpose": "X (Twitter) Header (1500x500)",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": "Profile photo overlaps lower-left; top and bottom crop on some devices."
+    },
+    {
+      "path": "assets/social/x/x-post-landscape-1600x900.svg",
+      "purpose": "Editable template: X (Twitter) Post image (16:9)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-post-landscape-1600x900.png",
+      "purpose": "X (Twitter) Post image (16:9) (1600x900) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-post-square-1080x1080.svg",
+      "purpose": "Editable template: X (Twitter) Post image (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-post-square-1080x1080.png",
+      "purpose": "X (Twitter) Post image (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-card-1200x628.svg",
+      "purpose": "Editable template: X (Twitter) Link card image",
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-card-1200x628.png",
+      "purpose": "X (Twitter) Link card image (1200x628) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-avatar-800x800.svg",
+      "purpose": "Editable template: YouTube Channel icon",
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-avatar-800x800.png",
+      "purpose": "YouTube Channel icon (800x800)",
+      "alt": "Northwind Labs symbol, single colour, white (reversed), with cut-out details on a Fjord Teal background",
+      "logoVariant": "mono-light",
+      "logoContrast": 5.95,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/youtube/youtube-banner-2560x1440.svg",
+      "purpose": "Editable template: YouTube Channel banner",
+      "note": "Text and logo must sit inside the central 1546x423 safe area visible on all devices."
+    },
+    {
+      "path": "assets/social/youtube/youtube-banner-2560x1440.png",
+      "purpose": "YouTube Channel banner (2560x1440)",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": "Text and logo must sit inside the central 1546x423 safe area visible on all devices."
+    },
+    {
+      "path": "assets/social/youtube/youtube-thumbnail-1280x720.svg",
+      "purpose": "Editable template: YouTube Video thumbnail",
+      "note": "Duration badge covers the lower-right."
+    },
+    {
+      "path": "assets/social/youtube/youtube-thumbnail-1280x720.png",
+      "purpose": "YouTube Video thumbnail (1280x720) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": "Duration badge covers the lower-right."
+    },
+    {
+      "path": "assets/social/youtube/youtube-watermark-150x150.svg",
+      "purpose": "Editable template: YouTube Video watermark",
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-watermark-150x150.png",
+      "purpose": "YouTube Video watermark (150x150)",
+      "alt": "Northwind Labs symbol, single colour, white (reversed), with cut-out details on a Fjord Teal background",
+      "logoVariant": "mono-light",
+      "logoContrast": 5.95,
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-short-1080x1920.svg",
+      "purpose": "Editable template: YouTube Short",
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-short-1080x1920.png",
+      "purpose": "YouTube Short (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-avatar-320x320.svg",
+      "purpose": "Editable template: Instagram Profile picture",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-avatar-320x320.png",
+      "purpose": "Instagram Profile picture (320x320)",
+      "alt": "Northwind Labs symbol, single colour, white (reversed), with cut-out details on a Fjord Teal background",
+      "logoVariant": "mono-light",
+      "logoContrast": 5.95,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-square-1080x1080.svg",
+      "purpose": "Editable template: Instagram Feed post (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-square-1080x1080.png",
+      "purpose": "Instagram Feed post (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-1080x1350.svg",
+      "purpose": "Editable template: Instagram Feed post (portrait 4:5)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-1080x1350.png",
+      "purpose": "Instagram Feed post (portrait 4:5) (1080x1350) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-34-1080x1440.svg",
+      "purpose": "Editable template: Instagram Feed post (portrait 3:4)",
+      "note": "Profile grid previews crop to 3:4; keep key content central."
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-34-1080x1440.png",
+      "purpose": "Instagram Feed post (portrait 3:4) (1080x1440) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": "Profile grid previews crop to 3:4; keep key content central."
+    },
+    {
+      "path": "assets/social/instagram/instagram-story-1080x1920.svg",
+      "purpose": "Editable template: Instagram Story",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-story-1080x1920.png",
+      "purpose": "Instagram Story (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-reel-1080x1920.svg",
+      "purpose": "Editable template: Instagram Reel / cover",
+      "note": "Reel cover is cropped to 1:1 on the profile grid and 3:4 in previews."
+    },
+    {
+      "path": "assets/social/instagram/instagram-reel-1080x1920.png",
+      "purpose": "Instagram Reel / cover (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": "Reel cover is cropped to 1:1 on the profile grid and 3:4 in previews."
+    },
+    {
+      "path": "assets/social/web/web-og-image-1200x630.svg",
+      "purpose": "Editable template: Website sharing (Open Graph) Open Graph / social share image",
+      "note": ""
+    },
+    {
+      "path": "assets/social/web/web-og-image-1200x630.png",
+      "purpose": "Website sharing (Open Graph) Open Graph / social share image (1200x630) layout preview; add the headline using the SVG template",
+      "alt": "Northwind Labs, single colour, white (reversed), with cut-out details on a Polar Night background",
+      "logoVariant": "mono-light",
+      "logoContrast": 14.59,
+      "note": ""
+    }
+  ],
+  "warnings": [
+    "primary logo has several colours. Plain single-colour versions merge overlapping shapes; knockout versions turn enclosed shapes in ['#f2a541'] into holes instead. Inspect both, keep the one that preserves the logo's detail, and ask the designer for official single-colour artwork if neither does.",
+    "symbol logo has several colours. Plain single-colour versions merge overlapping shapes; knockout versions turn enclosed shapes in ['#f2a541'] into holes instead. Inspect both, keep the one that preserves the logo's detail, and ask the designer for official single-colour artwork if neither does."
+  ],
+  "skipped": [],
+  "backgroundTests": [
+    {
+      "background": "white",
+      "hex": "#ffffff",
+      "recommendedVariant": "full-colour",
+      "contrast": 5.95,
+      "fullColourContrast": 5.95,
+      "fullColourAllowed": true,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-white.png"
+    },
+    {
+      "background": "light-neutral",
+      "hex": "#f6f7f7",
+      "recommendedVariant": "full-colour",
+      "contrast": 5.54,
+      "fullColourContrast": 5.54,
+      "fullColourAllowed": true,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-light-neutral.png"
+    },
+    {
+      "background": "primary",
+      "hex": "#0f6e7a",
+      "recommendedVariant": "mono-light",
+      "contrast": 5.95,
+      "fullColourContrast": 1.0,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-primary.png"
+    },
+    {
+      "background": "dark",
+      "hex": "#091112",
+      "recommendedVariant": "mono-light",
+      "contrast": 19.08,
+      "fullColourContrast": 1.31,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-dark.png"
+    },
+    {
+      "background": "secondary",
+      "hex": "#1b2a3a",
+      "recommendedVariant": "mono-light",
+      "contrast": 14.59,
+      "fullColourContrast": 1.0,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-secondary.png"
+    },
+    {
+      "background": "accent",
+      "hex": "#f2a541",
+      "recommendedVariant": "mono-dark",
+      "contrast": 9.3,
+      "fullColourContrast": 2.9,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-accent.png"
+    }
+  ],
+  "platformSpecsReviewed": "2026-10-02"
+}

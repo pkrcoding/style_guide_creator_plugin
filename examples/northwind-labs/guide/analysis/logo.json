@@ -1,0 +1,340 @@
+{
+  "file": "assets/source/logo.svg",
+  "format": "svg",
+  "svg": {
+    "viewBox": [
+      0.0,
+      0.0,
+      610.0,
+      128.0
+    ],
+    "width": 610.0,
+    "height": 128.0,
+    "hasText": false,
+    "fonts": [],
+    "hasGradient": false,
+    "hasEmbeddedRaster": false,
+    "hasTitle": true,
+    "hasRoleImg": true
+  },
+  "dimensions": {
+    "width": 610.0,
+    "height": 128.0,
+    "units": "svg user units"
+  },
+  "contentAspectRatio": 4.9,
+  "orientation": "wide-horizontal",
+  "declaredColours": [
+    {
+      "name": "cyan",
+      "hex": "#0f6e7a",
+      "rgb": "rgb(15 110 122)",
+      "hsl": "hsl(187 78% 27%)",
+      "oklch": "oklch(49.4% 0.081 208.5)",
+      "cmyk": "C88 M10 Y0 K52",
+      "share": 0.6,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 5.95,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": false,
+        "aaaLarge": true,
+        "rating": "AA"
+      },
+      "onBlack": {
+        "ratio": 3.53,
+        "aaBody": false,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "AA Large / UI"
+      },
+      "declarations": 3
+    },
+    {
+      "name": "orange",
+      "hex": "#f2a541",
+      "rgb": "rgb(242 165 65)",
+      "hsl": "hsl(34 87% 60%)",
+      "oklch": "oklch(78.0% 0.144 69.4)",
+      "cmyk": "C0 M32 Y73 K5",
+      "share": 0.2,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 2.05,
+        "aaBody": false,
+        "aaLarge": false,
+        "aaUi": false,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "Fail"
+      },
+      "onBlack": {
+        "ratio": 10.23,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": true,
+        "aaaLarge": true,
+        "rating": "AAA"
+      },
+      "declarations": 1
+    },
+    {
+      "name": "dark blue",
+      "hex": "#1b2a3a",
+      "rgb": "rgb(27 42 58)",
+      "hsl": "hsl(211 36% 17%)",
+      "oklch": "oklch(27.9% 0.036 250.8)",
+      "cmyk": "C53 M28 Y0 K77",
+      "share": 0.2,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 14.59,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": true,
+        "aaaLarge": true,
+        "rating": "AAA"
+      },
+      "onBlack": {
+        "ratio": 1.44,
+        "aaBody": false,
+        "aaLarge": false,
+        "aaUi": false,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "Fail"
+      },
+      "declarations": 1
+    }
+  ],
+  "rendered": {
+    "background": {
+      "type": "solid",
+      "hex": "#ffffff"
+    },
+    "contentBox": {
+      "x": 0.0059,
+      "y": 0.4004,
+      "width": 0.9668,
+      "height": 0.1973,
+      "paddingFraction": {
+        "left": 0.006,
+        "right": 0.027,
+        "top": 0.4,
+        "bottom": 0.402
+      }
+    },
+    "colours": [
+      {
+        "name": "cyan",
+        "hex": "#116e7a",
+        "rgb": "rgb(17 110 122)",
+        "hsl": "hsl(187 76% 27%)",
+        "oklch": "oklch(49.4% 0.081 208.6)",
+        "cmyk": "C86 M10 Y0 K52",
+        "share": 0.5537,
+        "isNeutral": false,
+        "onWhite": {
+          "ratio": 5.94,
+          "aaBody": true,
+          "aaLarge": true,
+          "aaUi": true,
+          "aaaBody": false,
+          "aaaLarge": true,
+          "rating": "AA"
+        },
+        "onBlack": {
+          "ratio": 3.54,
+          "aaBody": false,
+          "aaLarge": true,
+          "aaUi": true,
+          "aaaBody": false,
+          "aaaLarge": false,
+          "rating": "AA Large / UI"
+        },
+        "edgeShare": 0.3054,
+        "touchesBackground": true
+      },
+      {
+        "name": "dark blue",
+        "hex": "#1b2a3a",
+        "rgb": "rgb(27 42 58)",
+        "hsl": "hsl(211 36% 17%)",
+        "oklch": "oklch(27.9% 0.036 250.8)",
+        "cmyk": "C53 M28 Y0 K77",
+        "share": 0.3657,
+        "isNeutral": false,
+        "onWhite": {
+          "ratio": 14.59,
+          "aaBody": true,
+          "aaLarge": true,
+          "aaUi": true,
+          "aaaBody": true,
+          "aaaLarge": true,
+          "rating": "AAA"
+        },
+        "onBlack": {
+          "ratio": 1.44,
+          "aaBody": false,
+          "aaLarge": false,
+          "aaUi": false,
+          "aaaBody": false,
+          "aaaLarge": false,
+          "rating": "Fail"
+        },
+        "edgeShare": 0.6946,
+        "touchesBackground": true
+      },
+      {
+        "name": "orange",
+        "hex": "#f1a541",
+        "rgb": "rgb(241 165 65)",
+        "hsl": "hsl(34 86% 60%)",
+        "oklch": "oklch(77.9% 0.143 69.8)",
+        "cmyk": "C0 M32 Y73 K5",
+        "share": 0.0806,
+        "isNeutral": false,
+        "onWhite": {
+          "ratio": 2.06,
+          "aaBody": false,
+          "aaLarge": false,
+          "aaUi": false,
+          "aaaBody": false,
+          "aaaLarge": false,
+          "rating": "Fail"
+        },
+        "onBlack": {
+          "ratio": 10.2,
+          "aaBody": true,
+          "aaLarge": true,
+          "aaUi": true,
+          "aaaBody": true,
+          "aaaLarge": true,
+          "rating": "AAA"
+        },
+        "edgeShare": 0.0,
+        "touchesBackground": false
+      }
+    ]
+  },
+  "colours": [
+    {
+      "name": "cyan",
+      "hex": "#0f6e7a",
+      "rgb": "rgb(15 110 122)",
+      "hsl": "hsl(187 78% 27%)",
+      "oklch": "oklch(49.4% 0.081 208.5)",
+      "cmyk": "C88 M10 Y0 K52",
+      "share": 0.5537,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 5.95,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": false,
+        "aaaLarge": true,
+        "rating": "AA"
+      },
+      "onBlack": {
+        "ratio": 3.53,
+        "aaBody": false,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "AA Large / UI"
+      },
+      "edgeShare": 0.3054,
+      "touchesBackground": true
+    },
+    {
+      "name": "dark blue",
+      "hex": "#1b2a3a",
+      "rgb": "rgb(27 42 58)",
+      "hsl": "hsl(211 36% 17%)",
+      "oklch": "oklch(27.9% 0.036 250.8)",
+      "cmyk": "C53 M28 Y0 K77",
+      "share": 0.3657,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 14.59,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": true,
+        "aaaLarge": true,
+        "rating": "AAA"
+      },
+      "onBlack": {
+        "ratio": 1.44,
+        "aaBody": false,
+        "aaLarge": false,
+        "aaUi": false,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "Fail"
+      },
+      "edgeShare": 0.6946,
+      "touchesBackground": true
+    },
+    {
+      "name": "orange",
+      "hex": "#f2a541",
+      "rgb": "rgb(242 165 65)",
+      "hsl": "hsl(34 87% 60%)",
+      "oklch": "oklch(78.0% 0.144 69.4)",
+      "cmyk": "C0 M32 Y73 K5",
+      "share": 0.0806,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 2.05,
+        "aaBody": false,
+        "aaLarge": false,
+        "aaUi": false,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "Fail"
+      },
+      "onBlack": {
+        "ratio": 10.23,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": true,
+        "aaaLarge": true,
+        "rating": "AAA"
+      },
+      "edgeShare": 0.0,
+      "touchesBackground": false
+    }
+  ],
+  "recommendations": {
+    "fullColourOnWhite": true,
+    "fullColourOnBlack": false,
+    "lowestContrastOnWhite": 5.95,
+    "lowestContrastOnBlack": 1.44,
+    "notes": [
+      "Logo colours ['#1b2a3a'] are below 3:1 on black. Use the reversed (white) logo on dark backgrounds."
+    ],
+    "cvdRisks": [],
+    "seedColours": [
+      "#0f6e7a",
+      "#1b2a3a",
+      "#f2a541"
+    ],
+    "needsSymbolForAvatars": true,
+    "avatarNote": "Wide logo: it will be illegible inside circular social avatars. Use the symbol/monogram alone, or create a stacked lock-up for square formats.",
+    "suggestedMinSize": {
+      "digitalWidthPx": 98,
+      "printWidthMm": 34,
+      "rationale": "Starting point only: confirm by viewing the logo at this size and checking the smallest detail and any text stay legible."
+    }
+  }
+}

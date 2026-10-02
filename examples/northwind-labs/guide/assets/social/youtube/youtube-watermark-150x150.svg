@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" viewBox="0 0 150 150" role="img" aria-labelledby="title desc">
+  <title id="title">Northwind Labs YouTube Video watermark template</title>
+  <desc id="desc">Template 150x150px. Keep text and logos inside the dashed safe zone. Text colour #ffffff on #0f6e7a = 5.9:1. Delete the "guides" group before export.</desc>
+  <rect id="background" width="150" height="150" fill="#0f6e7a"/>
+  <g id="artwork"><image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idCI+CiAgPHRpdGxlIGlkPSJ0Ij5Ob3J0aHdpbmQgTGFicyBzeW1ib2w8L3RpdGxlPgogIDxjaXJjbGUgY3g9IjY0IiBjeT0iNjQiIHI9IjYwIiBmaWxsPSIjMEY2RTdBIi8+CiAgPHBhdGggZD0iTTMwIDkyIEw2NCAzMCBMOTggOTIgWiIgZmlsbD0iI0YyQTU0MSIvPgogIDxwYXRoIGQ9Ik00NiA5MiBMNjQgNjAgTDgyIDkyIFoiIGZpbGw9IiMwRjZFN0EiLz4KPC9zdmc+Cg==" x="20" y="20" width="111" height="111" preserveAspectRatio="xMidYMid meet"/></g>
+  <g id="guides" fill="none" stroke="#ff00aa" stroke-width="2" stroke-dasharray="12 8">
+    <rect x="12" y="12" width="126" height="126"/>
+    
+  </g>
+</svg>

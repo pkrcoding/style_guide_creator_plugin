@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="t">
+  <title id="t">Northwind Labs symbol</title>
+  <circle cx="64" cy="64" r="60" fill="#0F6E7A"/>
+  <path d="M30 92 L64 30 L98 92 Z" fill="#F2A541"/>
+  <path d="M46 92 L64 60 L82 92 Z" fill="#0F6E7A"/>
+</svg>

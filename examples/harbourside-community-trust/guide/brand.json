@@ -1,0 +1,1694 @@
+{
+  "$schema": "style-guide-creator/brand@1",
+  "meta": {
+    "name": "Harbourside Community Trust",
+    "slug": "harbourside-community-trust",
+    "version": "1.0.0",
+    "lastUpdated": "2026-10-02",
+    "owner": "Communications team",
+    "contact": "comms@harbourside.example",
+    "accessibilityTarget": "WCAG 2.2 AA",
+    "locale": "en-GB",
+    "languages": [
+      "en-GB"
+    ],
+    "reviewCadence": "Every 12 months, and after any rebrand or platform change",
+    "assumptions": [
+      "Brand colours were extracted from the logo; confirm exact values against the master artwork or existing specifications.",
+      "CMYK values are mathematical conversions; confirm with your printer and choose Pantone matches from a physical swatch book.",
+      "Social platform specifications were last reviewed on the date in the social chapter; verify before production.",
+      "Non-interactive run: no questions were asked. Defaults below were chosen by the brand team and need confirmation.",
+      "Colour names (Harbour Blue, Sunset Coral, Tide Blue) were proposed by us; confirm or rename.",
+      "The circular sun-and-waves symbol was cropped from the master logo to assets/source/symbol.png for avatars and favicons; a designer should confirm it or supply vector artwork.",
+      "The logo was supplied only as a PNG (1289x400). Vector (SVG/EPS/PDF) master artwork should be sourced for print and signage.",
+      "Fonts proposed: Nunito (display, matches the rounded wordmark) and Atkinson Hyperlegible Next (body, chosen for older and low-vision readers); both free under the SIL Open Font License. The typeface used in the logo itself has not been identified.",
+      "Minimum logo size raised to 160px / 40mm so the smaller 'Community Trust' line stays legible; confirm with a designer.",
+      "Corner radius increased to match the rounded letterforms and circular symbol.",
+      "Social handles were not supplied; none are listed.",
+      "Vision, positioning, tagline, personality, value descriptions and boilerplate are proposals built from the supplied mission and values; confirm with trustees/leadership.",
+      "The organisation's legal status (e.g. registered charity number) was not supplied; the legal chapter uses placeholders.",
+      "Single-colour logos use the knockout style (sun and waves cut out) because the plain style loses all symbol detail; the Tide Blue band merges into the surrounding shape. Official single-colour artwork should be confirmed by a designer.",
+      "The full-colour logo is approved on white as the master presentation, although 'Community Trust' in Sunset Coral is 2.95:1 on white. Logotypes are exempt from WCAG contrast; this exception needs sign-off from the Communications team, and the logo must never be the only place the name appears.",
+      "Brand hashtags #HereForHarbourside and #HarboursideTrust are proposals; check they are not in use by others. Proposed handle pattern: HarboursideTrust.",
+      "House style: -ise spelling, no serial comma by default, single quotation marks, 'the Trust' as the short name, no 'HCT' in public content. Reading age 9-11 for public content, 12-14 for partner documents.",
+      "Print body text: 14pt minimum for public materials, 12pt for partner/internal reports, 16pt+ for large print; 44x44px targets everywhere. These are stricter than WCAG AA because of the audience.",
+      "Charities are usually outside the Public Sector Bodies Accessibility Regulations 2018; trustees should confirm whether funding or contracts bring the Trust into scope.",
+      "Chart series order, mobile type sizes, the wave-line divider, the logo sting animation, Lucide icons and a two-year consent review are proposals.",
+      "Approval lead times, response times, posting rhythms, embroidery minimums and the Word/PowerPoint/Google templates are proposals; the templates do not yet exist.",
+      "Community languages for translation, a phone number, registered address and charity number were not supplied and appear as placeholders."
+    ]
+  },
+  "foundations": {
+    "mission": "We help families in Harbourside's coastal neighbourhoods find safe homes, warm meals and good work.",
+    "vision": "A Harbourside where every family has a safe home, enough to eat and work they can be proud of.",
+    "values": [
+      {
+        "name": "Kindness",
+        "description": "We treat everyone with warmth, patience and respect.",
+        "behaviour": "We write as a friendly neighbour would speak: warm, calm and never judging."
+      },
+      {
+        "name": "Fairness",
+        "description": "Everyone deserves the same chance and the same respect.",
+        "behaviour": "We describe people with dignity, explain rules clearly and never hide the small print."
+      },
+      {
+        "name": "Together",
+        "description": "We do more when families, volunteers, donors and partners work side by side.",
+        "behaviour": "We say \"with\", not \"for\". We credit volunteers and partners by name when they agree."
+      },
+      {
+        "name": "Local first",
+        "description": "We belong to Harbourside and put local people and places first.",
+        "behaviour": "We name real streets, places and local partners, and we write for the people who live here."
+      }
+    ],
+    "positioning": "For families in Harbourside's coastal neighbourhoods who need help with a home, food or work, Harbourside Community Trust is the local charity that helps them find all three in one place, because we are part of the community we serve and we work alongside neighbours, volunteers and partners.",
+    "personality": [
+      "Warm",
+      "Steady",
+      "Approachable",
+      "Hopeful",
+      "Rooted"
+    ],
+    "audiences": [
+      {
+        "name": "Local families",
+        "needs": "Clear, kind information about what help is available, who can get it, where to go and what to bring. Respect and privacy.",
+        "channels": [
+          "WhatsApp",
+          "Facebook",
+          "Website",
+          "Printed leaflets and posters"
+        ]
+      },
+      {
+        "name": "Volunteers",
+        "needs": "What to do, when and where; how their time helps; thanks and recognition.",
+        "channels": [
+          "WhatsApp",
+          "Facebook",
+          "Email",
+          "Website"
+        ]
+      },
+      {
+        "name": "Donors",
+        "needs": "Honest information about where their money goes, and simple ways to give.",
+        "channels": [
+          "Website",
+          "Facebook",
+          "Instagram",
+          "Email",
+          "LinkedIn"
+        ]
+      },
+      {
+        "name": "Council partners",
+        "needs": "Reliable facts, clear contacts and evidence of local need, presented professionally.",
+        "channels": [
+          "Email",
+          "LinkedIn",
+          "Reports and documents"
+        ]
+      },
+      {
+        "name": "Older residents",
+        "needs": "Large, clear text, simple steps and a phone number or place to visit.",
+        "channels": [
+          "Printed materials",
+          "Phone",
+          "Facebook",
+          "Face to face"
+        ]
+      },
+      {
+        "name": "People who speak English as a second language",
+        "needs": "Short, literal sentences they can read or translate easily.",
+        "channels": [
+          "WhatsApp",
+          "Facebook",
+          "Printed materials"
+        ]
+      }
+    ],
+    "tagline": "Here for Harbourside.",
+    "boilerplate": {
+      "short": "Harbourside Community Trust is a local charity. We help families in Harbourside's coastal neighbourhoods find safe homes, warm meals and good work. Contact comms@harbourside.example.",
+      "medium": "Harbourside Community Trust is a local charity. We help families in Harbourside's coastal neighbourhoods find safe homes, warm meals and good work. We work with local families, volunteers, donors and council partners. Our values are Kindness, Fairness, Together and Local first. To find out more, email comms@harbourside.example.",
+      "long": "Harbourside Community Trust is a local charity. We help families in Harbourside's coastal neighbourhoods find safe homes, warm meals and good work. We believe every family deserves a safe place to live, enough to eat and the chance of a good job. We work side by side with local families, volunteers, donors and council partners, because we can do more together. Our values guide everything we do: Kindness, Fairness, Together and Local first. We treat everyone with respect, and we put Harbourside's people and places first. To volunteer, give or work with us, email comms@harbourside.example."
+    },
+    "industry": "Local charity"
+  },
+  "logo": {
+    "master": "assets/source/logo.png",
+    "symbol": "assets/source/symbol.png",
+    "type": "combination",
+    "description": "A combination mark. On the left, a solid Harbour Blue circle holds a Sunset Coral half-sun rising over three white wave lines, with a Tide Blue band between the lower waves. To the right, 'Harbourside' is set in a heavy, rounded geometric sans-serif in Harbour Blue, with 'Community Trust' below in a lighter weight of the same style in Sunset Coral.",
+    "altText": "Harbourside Community Trust logo",
+    "orientation": "wide-horizontal",
+    "aspectRatio": 3.471,
+    "clearSpace": {
+      "fraction": 0.25,
+      "rule": "Keep clear space on all sides equal to the height of the sun in the symbol (about a quarter of the logo's height)."
+    },
+    "minSize": {
+      "digitalPx": 160,
+      "printMm": 40,
+      "symbolDigitalPx": 24,
+      "symbolPrintMm": 8
+    },
+    "monoStyle": "knockout",
+    "fullColourExceptions": [
+      "white"
+    ],
+    "misuse": [
+      "Don't stretch, squash or skew the logo",
+      "Don't rotate, tilt or flip the logo",
+      "Don't recolour any part, swap colours, or use tints or gradients",
+      "Don't add shadows, glows, bevels, outlines or 3D effects",
+      "Don't move, resize or separate the symbol and wordmark, or create new lock-ups",
+      "Don't use the plain single-colour version; use the knockout",
+      "Don't use the full-colour logo on any background except white, including light grey",
+      "Don't place any version on busy photos, patterned fabric or backgrounds under 3:1",
+      "Don't use a white logo on Sunset Coral",
+      "Don't place the logo inside unapproved shapes, badges or frames",
+      "Don't retype the name in another font next to the symbol",
+      "Don't crop the logo or use it below minimum size",
+      "Don't use old, screenshotted, traced, redrawn or low-resolution copies",
+      "Don't recolour partner logos to match ours"
+    ],
+    "analysis": "analysis/logo.json"
+  },
+  "color": {
+    "brand": [
+      {
+        "id": "primary",
+        "name": "Harbour Blue",
+        "role": "primary",
+        "hex": "#1d4e89",
+        "rgb": "rgb(29 78 137)",
+        "hsl": "hsl(213 65% 33%)",
+        "oklch": "oklch(42.3% 0.111 255.1)",
+        "cmyk": "C79 M43 Y0 K46",
+        "pinnedStep": "700",
+        "scale": {
+          "50": "#f2f7ff",
+          "100": "#e1eeff",
+          "200": "#c3ddff",
+          "300": "#99c4fc",
+          "400": "#6ea4ea",
+          "500": "#4c88d3",
+          "600": "#356db2",
+          "700": "#1d4e89",
+          "800": "#184070",
+          "900": "#0d2b50",
+          "950": "#041832"
+        },
+        "steps": {
+          "50": {
+            "hex": "#f2f7ff",
+            "oklch": "oklch(97.5% 0.012 259.8)",
+            "contrastWithWhite": 1.08,
+            "contrastWithBlack": 19.52,
+            "textColour": "#0c1015"
+          },
+          "100": {
+            "hex": "#e1eeff",
+            "oklch": "oklch(94.4% 0.027 255.1)",
+            "contrastWithWhite": 1.17,
+            "contrastWithBlack": 17.88,
+            "textColour": "#0c1015"
+          },
+          "200": {
+            "hex": "#c3ddff",
+            "oklch": "oklch(88.9% 0.055 255.2)",
+            "contrastWithWhite": 1.39,
+            "contrastWithBlack": 15.11,
+            "textColour": "#0c1015"
+          },
+          "300": {
+            "hex": "#99c4fc",
+            "oklch": "oklch(81.0% 0.092 255.3)",
+            "contrastWithWhite": 1.8,
+            "contrastWithBlack": 11.66,
+            "textColour": "#0c1015"
+          },
+          "400": {
+            "hex": "#6ea4ea",
+            "oklch": "oklch(71.0% 0.118 255.4)",
+            "contrastWithWhite": 2.57,
+            "contrastWithBlack": 8.16,
+            "textColour": "#0c1015"
+          },
+          "500": {
+            "hex": "#4c88d3",
+            "oklch": "oklch(62.1% 0.130 255.0)",
+            "contrastWithWhite": 3.64,
+            "contrastWithBlack": 5.77,
+            "textColour": "#0c1015"
+          },
+          "600": {
+            "hex": "#356db2",
+            "oklch": "oklch(53.1% 0.124 255.0)",
+            "contrastWithWhite": 5.27,
+            "contrastWithBlack": 3.98,
+            "textColour": "#ffffff"
+          },
+          "700": {
+            "hex": "#1d4e89",
+            "oklch": "oklch(42.3% 0.111 255.1)",
+            "contrastWithWhite": 8.39,
+            "contrastWithBlack": 2.5,
+            "textColour": "#ffffff"
+          },
+          "800": {
+            "hex": "#184070",
+            "oklch": "oklch(37.0% 0.094 254.9)",
+            "contrastWithWhite": 10.47,
+            "contrastWithBlack": 2.01,
+            "textColour": "#ffffff"
+          },
+          "900": {
+            "hex": "#0d2b50",
+            "oklch": "oklch(28.9% 0.076 255.5)",
+            "contrastWithWhite": 14.2,
+            "contrastWithBlack": 1.48,
+            "textColour": "#ffffff"
+          },
+          "950": {
+            "hex": "#041832",
+            "oklch": "oklch(21.0% 0.058 255.4)",
+            "contrastWithWhite": 17.77,
+            "contrastWithBlack": 1.18,
+            "textColour": "#ffffff"
+          }
+        },
+        "accessible": {
+          "textOnLight": {
+            "step": "600",
+            "hex": "#356db2",
+            "ratio": 5.27
+          },
+          "uiOnLight": {
+            "step": "500",
+            "hex": "#4c88d3",
+            "ratio": 3.64
+          },
+          "textOnDark": {
+            "step": "500",
+            "hex": "#4c88d3",
+            "ratio": 5.24
+          },
+          "uiOnDark": {
+            "step": "600",
+            "hex": "#356db2",
+            "ratio": 3.62
+          },
+          "solidWithWhiteText": {
+            "step": "600",
+            "hex": "#356db2",
+            "ratio": 5.27
+          }
+        },
+        "original": {
+          "onWhite": {
+            "ratio": 8.39,
+            "aaBody": true,
+            "aaLarge": true,
+            "aaUi": true,
+            "aaaBody": true,
+            "aaaLarge": true,
+            "rating": "AAA"
+          },
+          "onBlack": {
+            "ratio": 2.5,
+            "aaBody": false,
+            "aaLarge": false,
+            "aaUi": false,
+            "aaaBody": false,
+            "aaaLarge": false,
+            "rating": "Fail"
+          },
+          "withWhiteText": {
+            "ratio": 8.39,
+            "aaBody": true,
+            "aaLarge": true,
+            "aaUi": true,
+            "aaaBody": true,
+            "aaaLarge": true,
+            "rating": "AAA"
+          }
+        }
+      },
+      {
+        "id": "secondary",
+        "name": "Sunset Coral",
+        "role": "secondary",
+        "hex": "#f36c5c",
+        "rgb": "rgb(243 108 92)",
+        "hsl": "hsl(6 86% 66%)",
+        "oklch": "oklch(69.3% 0.169 29.0)",
+        "cmyk": "C0 M56 Y62 K5",
+        "pinnedStep": "400",
+        "scale": {
+          "50": "#fff4f2",
+          "100": "#ffe6e2",
+          "200": "#ffcdc5",
+          "300": "#ffa699",
+          "400": "#f36c5c",
+          "500": "#e14b3d",
+          "600": "#bd3126",
+          "700": "#9b2018",
+          "800": "#77130d",
+          "900": "#550805",
+          "950": "#360101"
+        },
+        "steps": {
+          "50": {
+            "hex": "#fff4f2",
+            "oklch": "oklch(97.5% 0.012 29.9)",
+            "contrastWithWhite": 1.08,
+            "contrastWithBlack": 19.47,
+            "textColour": "#0c1015"
+          },
+          "100": {
+            "hex": "#ffe6e2",
+            "oklch": "oklch(94.4% 0.028 28.5)",
+            "contrastWithWhite": 1.19,
+            "contrastWithBlack": 17.67,
+            "textColour": "#0c1015"
+          },
+          "200": {
+            "hex": "#ffcdc5",
+            "oklch": "oklch(89.0% 0.058 28.8)",
+            "contrastWithWhite": 1.42,
+            "contrastWithBlack": 14.79,
+            "textColour": "#0c1015"
+          },
+          "300": {
+            "hex": "#ffa699",
+            "oklch": "oklch(81.0% 0.108 28.7)",
+            "contrastWithWhite": 1.88,
+            "contrastWithBlack": 11.17,
+            "textColour": "#0c1015"
+          },
+          "400": {
+            "hex": "#f36c5c",
+            "oklch": "oklch(69.3% 0.169 29.0)",
+            "contrastWithWhite": 2.95,
+            "contrastWithBlack": 7.11,
+            "textColour": "#0c1015"
+          },
+          "500": {
+            "hex": "#e14b3d",
+            "oklch": "oklch(62.0% 0.189 28.9)",
+            "contrastWithWhite": 3.98,
+            "contrastWithBlack": 5.28,
+            "textColour": "#0c1015"
+          },
+          "600": {
+            "hex": "#bd3126",
+            "oklch": "oklch(53.0% 0.179 29.1)",
+            "contrastWithWhite": 5.78,
+            "contrastWithBlack": 3.63,
+            "textColour": "#ffffff"
+          },
+          "700": {
+            "hex": "#9b2018",
+            "oklch": "oklch(45.1% 0.160 29.0)",
+            "contrastWithWhite": 8.04,
+            "contrastWithBlack": 2.61,
+            "textColour": "#ffffff"
+          },
+          "800": {
+            "hex": "#77130d",
+            "oklch": "oklch(37.0% 0.135 29.1)",
+            "contrastWithWhite": 11.15,
+            "contrastWithBlack": 1.88,
+            "textColour": "#ffffff"
+          },
+          "900": {
+            "hex": "#550805",
+            "oklch": "oklch(29.0% 0.109 29.0)",
+            "contrastWithWhite": 14.76,
+            "contrastWithBlack": 1.42,
+            "textColour": "#ffffff"
+          },
+          "950": {
+            "hex": "#360101",
+            "oklch": "oklch(21.1% 0.084 28.6)",
+            "contrastWithWhite": 18.08,
+            "contrastWithBlack": 1.16,
+            "textColour": "#ffffff"
+          }
+        },
+        "accessible": {
+          "textOnLight": {
+            "step": "600",
+            "hex": "#bd3126",
+            "ratio": 5.78
+          },
+          "uiOnLight": {
+            "step": "500",
+            "hex": "#e14b3d",
+            "ratio": 3.98
+          },
+          "textOnDark": {
+            "step": "500",
+            "hex": "#e14b3d",
+            "ratio": 4.79
+          },
+          "uiOnDark": {
+            "step": "600",
+            "hex": "#bd3126",
+            "ratio": 3.3
+          },
+          "solidWithWhiteText": {
+            "step": "600",
+            "hex": "#bd3126",
+            "ratio": 5.78
+          }
+        },
+        "original": {
+          "onWhite": {
+            "ratio": 2.95,
+            "aaBody": false,
+            "aaLarge": false,
+            "aaUi": false,
+            "aaaBody": false,
+            "aaaLarge": false,
+            "rating": "Fail"
+          },
+          "onBlack": {
+            "ratio": 7.11,
+            "aaBody": true,
+            "aaLarge": true,
+            "aaUi": true,
+            "aaaBody": true,
+            "aaaLarge": true,
+            "rating": "AAA"
+          },
+          "withWhiteText": {
+            "ratio": 2.95,
+            "aaBody": false,
+            "aaLarge": false,
+            "aaUi": false,
+            "aaaBody": false,
+            "aaaLarge": false,
+            "rating": "Fail"
+          }
+        }
+      },
+      {
+        "id": "accent",
+        "name": "Tide Blue",
+        "role": "accent",
+        "hex": "#9ec8e7",
+        "rgb": "rgb(158 200 231)",
+        "hsl": "hsl(205 60% 76%)",
+        "oklch": "oklch(81.3% 0.063 240.5)",
+        "cmyk": "C32 M13 Y0 K9",
+        "pinnedStep": "300",
+        "scale": {
+          "50": "#f1f8fd",
+          "100": "#e0effb",
+          "200": "#c4dff3",
+          "300": "#9ec8e7",
+          "400": "#72a8cf",
+          "500": "#518db7",
+          "600": "#397298",
+          "700": "#295a7b",
+          "800": "#1b445e",
+          "900": "#0f2e42",
+          "950": "#051a29"
+        },
+        "steps": {
+          "50": {
+            "hex": "#f1f8fd",
+            "oklch": "oklch(97.5% 0.010 238.5)",
+            "contrastWithWhite": 1.07,
+            "contrastWithBlack": 19.59,
+            "textColour": "#0c1015"
+          },
+          "100": {
+            "hex": "#e0effb",
+            "oklch": "oklch(94.5% 0.023 241.9)",
+            "contrastWithWhite": 1.17,
+            "contrastWithBlack": 17.91,
+            "textColour": "#0c1015"
+          },
+          "200": {
+            "hex": "#c4dff3",
+            "oklch": "oklch(89.0% 0.040 240.0)",
+            "contrastWithWhite": 1.38,
+            "contrastWithBlack": 15.2,
+            "textColour": "#0c1015"
+          },
+          "300": {
+            "hex": "#9ec8e7",
+            "oklch": "oklch(81.3% 0.063 240.5)",
+            "contrastWithWhite": 1.77,
+            "contrastWithBlack": 11.87,
+            "textColour": "#0c1015"
+          },
+          "400": {
+            "hex": "#72a8cf",
+            "oklch": "oklch(70.9% 0.081 240.7)",
+            "contrastWithWhite": 2.56,
+            "contrastWithBlack": 8.22,
+            "textColour": "#0c1015"
+          },
+          "500": {
+            "hex": "#518db7",
+            "oklch": "oklch(62.0% 0.089 240.8)",
+            "contrastWithWhite": 3.59,
+            "contrastWithBlack": 5.84,
+            "textColour": "#0c1015"
+          },
+          "600": {
+            "hex": "#397298",
+            "oklch": "oklch(53.0% 0.085 240.2)",
+            "contrastWithWhite": 5.21,
+            "contrastWithBlack": 4.03,
+            "textColour": "#ffffff"
+          },
+          "700": {
+            "hex": "#295a7b",
+            "oklch": "oklch(44.9% 0.076 240.8)",
+            "contrastWithWhite": 7.39,
+            "contrastWithBlack": 2.84,
+            "textColour": "#ffffff"
+          },
+          "800": {
+            "hex": "#1b445e",
+            "oklch": "oklch(37.0% 0.064 239.6)",
+            "contrastWithWhite": 10.32,
+            "contrastWithBlack": 2.04,
+            "textColour": "#ffffff"
+          },
+          "900": {
+            "hex": "#0f2e42",
+            "oklch": "oklch(28.9% 0.052 240.3)",
+            "contrastWithWhite": 14.1,
+            "contrastWithBlack": 1.49,
+            "textColour": "#ffffff"
+          },
+          "950": {
+            "hex": "#051a29",
+            "oklch": "oklch(20.9% 0.040 242.3)",
+            "contrastWithWhite": 17.7,
+            "contrastWithBlack": 1.19,
+            "textColour": "#ffffff"
+          }
+        },
+        "accessible": {
+          "textOnLight": {
+            "step": "600",
+            "hex": "#397298",
+            "ratio": 5.21
+          },
+          "uiOnLight": {
+            "step": "500",
+            "hex": "#518db7",
+            "ratio": 3.59
+          },
+          "textOnDark": {
+            "step": "500",
+            "hex": "#518db7",
+            "ratio": 5.31
+          },
+          "uiOnDark": {
+            "step": "600",
+            "hex": "#397298",
+            "ratio": 3.67
+          },
+          "solidWithWhiteText": {
+            "step": "600",
+            "hex": "#397298",
+            "ratio": 5.21
+          }
+        },
+        "original": {
+          "onWhite": {
+            "ratio": 1.77,
+            "aaBody": false,
+            "aaLarge": false,
+            "aaUi": false,
+            "aaaBody": false,
+            "aaaLarge": false,
+            "rating": "Fail"
+          },
+          "onBlack": {
+            "ratio": 11.87,
+            "aaBody": true,
+            "aaLarge": true,
+            "aaUi": true,
+            "aaaBody": true,
+            "aaaLarge": true,
+            "rating": "AAA"
+          },
+          "withWhiteText": {
+            "ratio": 1.77,
+            "aaBody": false,
+            "aaLarge": false,
+            "aaUi": false,
+            "aaaBody": false,
+            "aaaLarge": false,
+            "rating": "Fail"
+          }
+        }
+      }
+    ],
+    "neutral": {
+      "id": "neutral",
+      "scale": {
+        "50": "#f6f7f8",
+        "100": "#ebedef",
+        "200": "#d8dbde",
+        "300": "#bdc1c6",
+        "400": "#9da2a8",
+        "500": "#81878d",
+        "600": "#676c72",
+        "700": "#52565b",
+        "800": "#3d4044",
+        "900": "#292c2f",
+        "950": "#0c1015"
+      },
+      "steps": {
+        "50": {
+          "hex": "#f6f7f8",
+          "oklch": "oklch(97.6% 0.002 247.8)",
+          "contrastWithWhite": 1.07,
+          "contrastWithBlack": 19.58,
+          "textColour": "#0c1015"
+        },
+        "100": {
+          "hex": "#ebedef",
+          "oklch": "oklch(94.5% 0.003 247.9)",
+          "contrastWithWhite": 1.17,
+          "contrastWithBlack": 17.89,
+          "textColour": "#0c1015"
+        },
+        "200": {
+          "hex": "#d8dbde",
+          "oklch": "oklch(89.0% 0.005 247.9)",
+          "contrastWithWhite": 1.39,
+          "contrastWithBlack": 15.11,
+          "textColour": "#0c1015"
+        },
+        "300": {
+          "hex": "#bdc1c6",
+          "oklch": "oklch(80.9% 0.008 253.9)",
+          "contrastWithWhite": 1.81,
+          "contrastWithBlack": 11.61,
+          "textColour": "#0c1015"
+        },
+        "400": {
+          "hex": "#9da2a8",
+          "oklch": "oklch(71.0% 0.010 252.8)",
+          "contrastWithWhite": 2.57,
+          "contrastWithBlack": 8.17,
+          "textColour": "#0c1015"
+        },
+        "500": {
+          "hex": "#81878d",
+          "oklch": "oklch(62.0% 0.011 248.0)",
+          "contrastWithWhite": 3.63,
+          "contrastWithBlack": 5.78,
+          "textColour": "#0c1015"
+        },
+        "600": {
+          "hex": "#676c72",
+          "oklch": "oklch(52.9% 0.011 252.9)",
+          "contrastWithWhite": 5.3,
+          "contrastWithBlack": 3.96,
+          "textColour": "#ffffff"
+        },
+        "700": {
+          "hex": "#52565b",
+          "oklch": "oklch(45.1% 0.010 253.9)",
+          "contrastWithWhite": 7.39,
+          "contrastWithBlack": 2.84,
+          "textColour": "#ffffff"
+        },
+        "800": {
+          "hex": "#3d4044",
+          "oklch": "oklch(37.0% 0.008 255.5)",
+          "contrastWithWhite": 10.42,
+          "contrastWithBlack": 2.02,
+          "textColour": "#ffffff"
+        },
+        "900": {
+          "hex": "#292c2f",
+          "oklch": "oklch(29.1% 0.007 248.1)",
+          "contrastWithWhite": 14.04,
+          "contrastWithBlack": 1.5,
+          "textColour": "#ffffff"
+        },
+        "950": {
+          "hex": "#0c1015",
+          "oklch": "oklch(17.1% 0.012 254.2)",
+          "contrastWithWhite": 19.08,
+          "contrastWithBlack": 1.1,
+          "textColour": "#ffffff"
+        }
+      },
+      "accessible": {
+        "body": {
+          "step": "900",
+          "hex": "#292c2f",
+          "ratio": 14.04
+        },
+        "secondaryText": {
+          "step": "600",
+          "hex": "#676c72",
+          "ratio": 5.3
+        },
+        "border": {
+          "step": "500",
+          "hex": "#81878d",
+          "ratio": 3.63
+        },
+        "decorativeBorder": {
+          "step": "200",
+          "hex": "#d8dbde"
+        }
+      }
+    },
+    "semantic": [
+      {
+        "id": "success",
+        "scale": {
+          "50": "#eefbf0",
+          "100": "#dbf5df",
+          "200": "#bae9c2",
+          "300": "#8bd69a",
+          "400": "#55ba70",
+          "500": "#20a04e",
+          "600": "#00823a",
+          "700": "#00672c",
+          "800": "#004e20",
+          "900": "#003614",
+          "950": "#001f08"
+        },
+        "tokens": {
+          "fg": {
+            "step": "600",
+            "hex": "#00823a",
+            "ratio": 4.94
+          },
+          "bg": {
+            "step": "50",
+            "hex": "#eefbf0"
+          },
+          "border": {
+            "step": "500",
+            "hex": "#20a04e",
+            "ratio": 3.39
+          },
+          "solid": {
+            "step": "600",
+            "hex": "#00823a",
+            "ratio": 4.94
+          },
+          "fgOnDark": {
+            "step": "500",
+            "hex": "#20a04e",
+            "ratio": 5.63
+          }
+        }
+      },
+      {
+        "id": "warning",
+        "scale": {
+          "50": "#fff5e9",
+          "100": "#fdead0",
+          "200": "#f7d5a6",
+          "300": "#ebb66a",
+          "400": "#d59219",
+          "500": "#b37900",
+          "600": "#916100",
+          "700": "#744c00",
+          "800": "#573900",
+          "900": "#3d2600",
+          "950": "#241500"
+        },
+        "tokens": {
+          "fg": {
+            "step": "600",
+            "hex": "#916100",
+            "ratio": 5.37
+          },
+          "bg": {
+            "step": "50",
+            "hex": "#fff5e9"
+          },
+          "border": {
+            "step": "500",
+            "hex": "#b37900",
+            "ratio": 3.72
+          },
+          "solid": {
+            "step": "600",
+            "hex": "#916100",
+            "ratio": 5.37
+          },
+          "fgOnDark": {
+            "step": "500",
+            "hex": "#b37900",
+            "ratio": 5.14
+          }
+        }
+      },
+      {
+        "id": "error",
+        "scale": {
+          "50": "#fff4f2",
+          "100": "#ffe6e3",
+          "200": "#ffcdc6",
+          "300": "#ffa69b",
+          "400": "#ee7b6f",
+          "500": "#d5584f",
+          "600": "#b33f38",
+          "700": "#922e28",
+          "800": "#701f1b",
+          "900": "#50120f",
+          "950": "#320605"
+        },
+        "tokens": {
+          "fg": {
+            "step": "600",
+            "hex": "#b33f38",
+            "ratio": 5.7
+          },
+          "bg": {
+            "step": "50",
+            "hex": "#fff4f2"
+          },
+          "border": {
+            "step": "500",
+            "hex": "#d5584f",
+            "ratio": 3.93
+          },
+          "solid": {
+            "step": "600",
+            "hex": "#b33f38",
+            "ratio": 5.7
+          },
+          "fgOnDark": {
+            "step": "500",
+            "hex": "#d5584f",
+            "ratio": 4.85
+          }
+        }
+      },
+      {
+        "id": "info",
+        "scale": {
+          "50": "#f1f8ff",
+          "100": "#e0efff",
+          "200": "#c0deff",
+          "300": "#8fc6ff",
+          "400": "#53a6f7",
+          "500": "#2389e2",
+          "600": "#006ebe",
+          "700": "#005798",
+          "800": "#004174",
+          "900": "#002c52",
+          "950": "#001932"
+        },
+        "tokens": {
+          "fg": {
+            "step": "600",
+            "hex": "#006ebe",
+            "ratio": 5.28
+          },
+          "bg": {
+            "step": "50",
+            "hex": "#f1f8ff"
+          },
+          "border": {
+            "step": "500",
+            "hex": "#2389e2",
+            "ratio": 3.65
+          },
+          "solid": {
+            "step": "600",
+            "hex": "#006ebe",
+            "ratio": 5.28
+          },
+          "fgOnDark": {
+            "step": "500",
+            "hex": "#2389e2",
+            "ratio": 5.22
+          }
+        }
+      }
+    ],
+    "surfaces": {
+      "light": "#ffffff",
+      "dark": "#0c1015"
+    },
+    "proportions": {
+      "neutral": 60,
+      "primary": 25,
+      "secondary": 10,
+      "accent": 5
+    },
+    "pairings": [
+      {
+        "fg": "#292c2f",
+        "bg": "#ffffff",
+        "fgToken": "neutral-900",
+        "bgToken": "white",
+        "use": "body",
+        "label": "Body text on light background",
+        "ratio": 14.04,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AAA"
+      },
+      {
+        "fg": "#676c72",
+        "bg": "#ffffff",
+        "fgToken": "neutral-600",
+        "bgToken": "white",
+        "use": "body",
+        "label": "Secondary text / captions on light background",
+        "ratio": 5.3,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#f6f7f8",
+        "bg": "#0c1015",
+        "fgToken": "neutral-50",
+        "bgToken": "neutral-950",
+        "use": "body",
+        "label": "Body text on dark background",
+        "ratio": 17.79,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AAA"
+      },
+      {
+        "fg": "#356db2",
+        "bg": "#ffffff",
+        "fgToken": "primary-600",
+        "bgToken": "white",
+        "use": "body",
+        "label": "Harbour Blue text and links on light background",
+        "ratio": 5.27,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#356db2",
+        "fgToken": "white",
+        "bgToken": "primary-600",
+        "use": "body",
+        "label": "White text on Harbour Blue buttons and banners",
+        "ratio": 5.27,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#4c88d3",
+        "bg": "#0c1015",
+        "fgToken": "primary-500",
+        "bgToken": "neutral-950",
+        "use": "body",
+        "label": "Harbour Blue text and links on dark background",
+        "ratio": 5.24,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#1d4e89",
+        "bg": "#ffffff",
+        "fgToken": "primary",
+        "bgToken": "white",
+        "use": "body",
+        "label": "Exact Harbour Blue on white (any text)",
+        "ratio": 8.39,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AAA"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#1d4e89",
+        "fgToken": "white",
+        "bgToken": "primary",
+        "use": "body",
+        "label": "Text on exact Harbour Blue background",
+        "ratio": 8.39,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AAA"
+      },
+      {
+        "fg": "#bd3126",
+        "bg": "#ffffff",
+        "fgToken": "secondary-600",
+        "bgToken": "white",
+        "use": "body",
+        "label": "Sunset Coral text and links on light background",
+        "ratio": 5.78,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#bd3126",
+        "fgToken": "white",
+        "bgToken": "secondary-600",
+        "use": "body",
+        "label": "White text on Sunset Coral buttons and banners",
+        "ratio": 5.78,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#e14b3d",
+        "bg": "#0c1015",
+        "fgToken": "secondary-500",
+        "bgToken": "neutral-950",
+        "use": "body",
+        "label": "Sunset Coral text and links on dark background",
+        "ratio": 4.79,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#f36c5c",
+        "bg": "#ffffff",
+        "fgToken": "secondary",
+        "bgToken": "white",
+        "use": "decorative",
+        "label": "Exact Sunset Coral on white (decorative only - not for text or meaningful graphics)",
+        "ratio": 2.95,
+        "required": 0.0,
+        "pass": true,
+        "rating": "Fail"
+      },
+      {
+        "fg": "#0c1015",
+        "bg": "#f36c5c",
+        "fgToken": "neutral-950",
+        "bgToken": "secondary",
+        "use": "body",
+        "label": "Text on exact Sunset Coral background",
+        "ratio": 6.46,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#397298",
+        "bg": "#ffffff",
+        "fgToken": "accent-600",
+        "bgToken": "white",
+        "use": "body",
+        "label": "Tide Blue text and links on light background",
+        "ratio": 5.21,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#ffffff",
+        "bg": "#397298",
+        "fgToken": "white",
+        "bgToken": "accent-600",
+        "use": "body",
+        "label": "White text on Tide Blue buttons and banners",
+        "ratio": 5.21,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#518db7",
+        "bg": "#0c1015",
+        "fgToken": "accent-500",
+        "bgToken": "neutral-950",
+        "use": "body",
+        "label": "Tide Blue text and links on dark background",
+        "ratio": 5.31,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#9ec8e7",
+        "bg": "#ffffff",
+        "fgToken": "accent",
+        "bgToken": "white",
+        "use": "decorative",
+        "label": "Exact Tide Blue on white (decorative only - not for text or meaningful graphics)",
+        "ratio": 1.77,
+        "required": 0.0,
+        "pass": true,
+        "rating": "Fail"
+      },
+      {
+        "fg": "#0c1015",
+        "bg": "#9ec8e7",
+        "fgToken": "neutral-950",
+        "bgToken": "accent",
+        "use": "body",
+        "label": "Text on exact Tide Blue background",
+        "ratio": 10.78,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AAA"
+      },
+      {
+        "fg": "#00823a",
+        "bg": "#eefbf0",
+        "fgToken": "success-600",
+        "bgToken": "success-50",
+        "use": "body",
+        "label": "Success message text on tinted background",
+        "ratio": 4.63,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#916100",
+        "bg": "#fff5e9",
+        "fgToken": "warning-600",
+        "bgToken": "warning-50",
+        "use": "body",
+        "label": "Warning message text on tinted background",
+        "ratio": 4.98,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#b33f38",
+        "bg": "#fff4f2",
+        "fgToken": "error-600",
+        "bgToken": "error-50",
+        "use": "body",
+        "label": "Error message text on tinted background",
+        "ratio": 5.29,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#006ebe",
+        "bg": "#f1f8ff",
+        "fgToken": "info-600",
+        "bgToken": "info-50",
+        "use": "body",
+        "label": "Info message text on tinted background",
+        "ratio": 4.93,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA"
+      },
+      {
+        "fg": "#1d4e89",
+        "bg": "#9ec8e7",
+        "fgToken": "#1d4e89",
+        "bgToken": "#9ec8e7",
+        "use": "body",
+        "label": "Harbour Blue text on Tide Blue panels",
+        "ratio": 4.74,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA",
+        "custom": true
+      },
+      {
+        "fg": "#9ec8e7",
+        "bg": "#1d4e89",
+        "fgToken": "#9ec8e7",
+        "bgToken": "#1d4e89",
+        "use": "body",
+        "label": "Tide Blue text on Harbour Blue",
+        "ratio": 4.74,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA",
+        "custom": true
+      },
+      {
+        "fg": "#1d4e89",
+        "bg": "#e1eeff",
+        "fgToken": "#1d4e89",
+        "bgToken": "#e1eeff",
+        "use": "body",
+        "label": "Harbour Blue text on primary-100 tint",
+        "ratio": 7.14,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AAA",
+        "custom": true
+      },
+      {
+        "fg": "#1d4e89",
+        "bg": "#f6f7f8",
+        "fgToken": "#1d4e89",
+        "bgToken": "#f6f7f8",
+        "use": "body",
+        "label": "Harbour Blue headings on light neutral",
+        "ratio": 7.82,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AAA",
+        "custom": true
+      },
+      {
+        "fg": "#f36c5c",
+        "bg": "#0c1015",
+        "fgToken": "#f36c5c",
+        "bgToken": "#0c1015",
+        "use": "body",
+        "label": "Sunset Coral text on dark neutral",
+        "ratio": 6.46,
+        "required": 4.5,
+        "pass": true,
+        "rating": "AA",
+        "custom": true
+      }
+    ],
+    "cvd": [
+      {
+        "pair": [
+          "Sunset Coral",
+          "Success"
+        ],
+        "vision": "protanopia",
+        "deltaE": 0.055
+      },
+      {
+        "pair": [
+          "Success",
+          "Warning"
+        ],
+        "vision": "protanopia",
+        "deltaE": 0.065
+      },
+      {
+        "pair": [
+          "Success",
+          "Warning"
+        ],
+        "vision": "deuteranopia",
+        "deltaE": 0.046
+      },
+      {
+        "pair": [
+          "Success",
+          "Error"
+        ],
+        "vision": "deuteranopia",
+        "deltaE": 0.019
+      },
+      {
+        "pair": [
+          "Success",
+          "Info"
+        ],
+        "vision": "tritanopia",
+        "deltaE": 0.04
+      },
+      {
+        "pair": [
+          "Warning",
+          "Error"
+        ],
+        "vision": "protanopia",
+        "deltaE": 0.071
+      },
+      {
+        "pair": [
+          "Warning",
+          "Error"
+        ],
+        "vision": "deuteranopia",
+        "deltaE": 0.03
+      }
+    ],
+    "notes": [
+      "Sunset Coral (#f36c5c) is 2.95:1 on white: decorative or large-area use only on light backgrounds. Use step 600 for text.",
+      "Tide Blue (#9ec8e7) is 1.77:1 on white: decorative or large-area use only on light backgrounds. Use step 600 for text.",
+      "Brand colour 'Sunset Coral' is close in hue to the 'error' state colour. Never signal error by colour alone; pair it with an icon and text, and keep brand Sunset Coral out of error messaging.",
+      "Brand colour 'Harbour Blue' is close in hue to the 'info' state colour. Never signal info by colour alone; pair it with an icon and text, and keep brand Harbour Blue out of info messaging.",
+      "Brand colour 'Tide Blue' is close in hue to the 'info' state colour. Never signal info by colour alone; pair it with an icon and text, and keep brand Tide Blue out of info messaging.",
+      "Sunset Coral and Success may be confused (protanopia). Add labels, icons, patterns or a lightness difference wherever they carry meaning together.",
+      "Success and Warning may be confused (protanopia, deuteranopia). Add labels, icons, patterns or a lightness difference wherever they carry meaning together.",
+      "Success and Error may be confused (deuteranopia). Add labels, icons, patterns or a lightness difference wherever they carry meaning together.",
+      "Success and Info may be confused (tritanopia). Add labels, icons, patterns or a lightness difference wherever they carry meaning together.",
+      "Warning and Error may be confused (protanopia, deuteranopia). Add labels, icons, patterns or a lightness difference wherever they carry meaning together."
+    ],
+    "customPairings": [
+      {
+        "fg": "#1d4e89",
+        "bg": "#9ec8e7",
+        "use": "body",
+        "label": "Harbour Blue text on Tide Blue panels"
+      },
+      {
+        "fg": "#9ec8e7",
+        "bg": "#1d4e89",
+        "use": "body",
+        "label": "Tide Blue text on Harbour Blue"
+      },
+      {
+        "fg": "#1d4e89",
+        "bg": "#e1eeff",
+        "use": "body",
+        "label": "Harbour Blue text on primary-100 tint"
+      },
+      {
+        "fg": "#1d4e89",
+        "bg": "#f6f7f8",
+        "use": "body",
+        "label": "Harbour Blue headings on light neutral"
+      },
+      {
+        "fg": "#f36c5c",
+        "bg": "#0c1015",
+        "use": "body",
+        "label": "Sunset Coral text on dark neutral"
+      }
+    ],
+    "excludedPairings": []
+  },
+  "typography": {
+    "families": [
+      {
+        "role": "display",
+        "name": "Nunito",
+        "fallback": "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "source": "Google Fonts",
+        "license": "SIL Open Font License 1.1",
+        "url": "https://fonts.google.com/specimen/Nunito",
+        "weights": [
+          400,
+          600,
+          700,
+          800
+        ]
+      },
+      {
+        "role": "body",
+        "name": "Atkinson Hyperlegible Next",
+        "fallback": "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+        "source": "Google Fonts",
+        "license": "SIL Open Font License 1.1",
+        "url": "https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next",
+        "weights": [
+          400,
+          600,
+          700
+        ]
+      },
+      {
+        "role": "mono",
+        "name": "JetBrains Mono",
+        "fallback": "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace",
+        "source": "Google Fonts",
+        "license": "SIL Open Font License 1.1",
+        "url": "https://fonts.google.com/specimen/JetBrains+Mono",
+        "weights": [
+          400,
+          600
+        ]
+      }
+    ],
+    "baseSizePx": 16,
+    "scaleRatio": "1.25 (major third), rounded",
+    "measure": "45-75 characters per line (aim for 66)",
+    "scale": [
+      {
+        "token": "display",
+        "sizePx": 60,
+        "lineHeight": 1.1,
+        "weight": 700,
+        "letterSpacing": "-0.02em",
+        "family": "display",
+        "usage": "Campaign headlines, hero banners (one per page)"
+      },
+      {
+        "token": "h1",
+        "sizePx": 48,
+        "lineHeight": 1.15,
+        "weight": 700,
+        "letterSpacing": "-0.015em",
+        "family": "display",
+        "usage": "Page titles"
+      },
+      {
+        "token": "h2",
+        "sizePx": 36,
+        "lineHeight": 1.2,
+        "weight": 700,
+        "letterSpacing": "-0.01em",
+        "family": "display",
+        "usage": "Section titles"
+      },
+      {
+        "token": "h3",
+        "sizePx": 28,
+        "lineHeight": 1.25,
+        "weight": 600,
+        "letterSpacing": "0",
+        "family": "display",
+        "usage": "Sub-sections"
+      },
+      {
+        "token": "h4",
+        "sizePx": 22,
+        "lineHeight": 1.3,
+        "weight": 600,
+        "letterSpacing": "0",
+        "family": "body",
+        "usage": "Card and component titles"
+      },
+      {
+        "token": "body-lg",
+        "sizePx": 20,
+        "lineHeight": 1.5,
+        "weight": 400,
+        "letterSpacing": "0",
+        "family": "body",
+        "usage": "Introductions and lead paragraphs"
+      },
+      {
+        "token": "body",
+        "sizePx": 16,
+        "lineHeight": 1.5,
+        "weight": 400,
+        "letterSpacing": "0",
+        "family": "body",
+        "usage": "Default body text (never smaller on screen)"
+      },
+      {
+        "token": "small",
+        "sizePx": 14,
+        "lineHeight": 1.5,
+        "weight": 400,
+        "letterSpacing": "0.01em",
+        "family": "body",
+        "usage": "Captions, metadata, legal (not for long passages)"
+      },
+      {
+        "token": "label",
+        "sizePx": 14,
+        "lineHeight": 1.4,
+        "weight": 600,
+        "letterSpacing": "0.02em",
+        "family": "body",
+        "usage": "Buttons, form labels, tags"
+      },
+      {
+        "token": "code",
+        "sizePx": 15,
+        "lineHeight": 1.5,
+        "weight": 400,
+        "letterSpacing": "0",
+        "family": "mono",
+        "usage": "Code, data, reference numbers"
+      }
+    ]
+  },
+  "spacing": {
+    "basePx": 4,
+    "scale": {
+      "0": 0,
+      "1": 4,
+      "2": 8,
+      "3": 12,
+      "4": 16,
+      "5": 24,
+      "6": 32,
+      "7": 40,
+      "8": 48,
+      "9": 64,
+      "10": 80,
+      "11": 96,
+      "12": 128
+    }
+  },
+  "grid": {
+    "maxContentWidthPx": 1280,
+    "breakpoints": [
+      {
+        "id": "mobile",
+        "minPx": 0,
+        "columns": 4,
+        "gutterPx": 16,
+        "marginPx": 16
+      },
+      {
+        "id": "tablet",
+        "minPx": 768,
+        "columns": 8,
+        "gutterPx": 24,
+        "marginPx": 32
+      },
+      {
+        "id": "desktop",
+        "minPx": 1024,
+        "columns": 12,
+        "gutterPx": 24,
+        "marginPx": 48
+      },
+      {
+        "id": "wide",
+        "minPx": 1440,
+        "columns": 12,
+        "gutterPx": 32,
+        "marginPx": 80
+      }
+    ]
+  },
+  "radius": {
+    "none": 0,
+    "sm": 6,
+    "md": 12,
+    "lg": 16,
+    "xl": 28,
+    "pill": 9999
+  },
+  "elevation": {
+    "0": "none",
+    "1": "0 1px 2px rgb(0 0 0 / 0.08), 0 1px 1px rgb(0 0 0 / 0.04)",
+    "2": "0 4px 8px rgb(0 0 0 / 0.08), 0 2px 4px rgb(0 0 0 / 0.04)",
+    "3": "0 12px 24px rgb(0 0 0 / 0.10), 0 4px 8px rgb(0 0 0 / 0.05)"
+  },
+  "motion": {
+    "durations": {
+      "instant": "0ms",
+      "fast": "120ms",
+      "base": "200ms",
+      "slow": "320ms",
+      "deliberate": "500ms"
+    },
+    "easing": {
+      "standard": "cubic-bezier(0.2, 0, 0, 1)",
+      "enter": "cubic-bezier(0, 0, 0, 1)",
+      "exit": "cubic-bezier(0.3, 0, 1, 1)"
+    },
+    "reducedMotion": "When prefers-reduced-motion is set, replace movement with fades of 120ms or less, and stop parallax, auto-advancing carousels and looping animation."
+  },
+  "focus": {
+    "colorOnLight": "#356db2",
+    "colorOnDark": "#4c88d3",
+    "widthPx": 3,
+    "offsetPx": 2,
+    "style": "solid",
+    "onBrand": {
+      "primary": {
+        "surfaces": [
+          "#1d4e89",
+          "#356db2"
+        ],
+        "focus": "#ffffff",
+        "ratio": 5.27
+      },
+      "secondary": {
+        "surfaces": [
+          "#f36c5c",
+          "#bd3126"
+        ],
+        "focus": "#0c1015",
+        "ratio": 3.3
+      },
+      "accent": {
+        "surfaces": [
+          "#9ec8e7",
+          "#397298"
+        ],
+        "focus": "#0c1015",
+        "ratio": 3.67
+      }
+    }
+  },
+  "social": {
+    "handles": {},
+    "platforms": [
+      "facebook",
+      "instagram",
+      "whatsapp",
+      "linkedin",
+      "web"
+    ],
+    "avatarBackground": "white",
+    "coverBackground": "primary",
+    "hashtags": {
+      "brand": [
+        "#HereForHarbourside",
+        "#HarboursideTrust"
+      ],
+      "campaign": []
+    },
+    "contentPillars": [
+      {
+        "name": "Help near you",
+        "purpose": "Opening times, services, how to get help, changes to services",
+        "share": 30
+      },
+      {
+        "name": "Local stories",
+        "purpose": "Stories of families, volunteers and neighbours, shared with written consent",
+        "share": 25
+      },
+      {
+        "name": "Get involved",
+        "purpose": "Volunteering, events and rotas",
+        "share": 20
+      },
+      {
+        "name": "Fund our work",
+        "purpose": "Appeals, donor thanks and what donations pay for",
+        "share": 15
+      },
+      {
+        "name": "Working together",
+        "purpose": "Partners, council work, impact figures and jobs",
+        "share": 10
+      }
+    ]
+  },
+  "content": {
+    "dir": "content"
+  }
+}

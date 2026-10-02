@@ -1,0 +1,625 @@
+{
+  "files": [
+    {
+      "path": "assets/logo/primary-original.jpg",
+      "purpose": "Original logo file as supplied",
+      "alt": "Pip & Pine Bakery logo"
+    },
+    {
+      "path": "assets/logo/primary-full-colour.png",
+      "purpose": "primary logo, full colour (PNG, transparent)",
+      "alt": "Pip & Pine Bakery logo, full colour"
+    },
+    {
+      "path": "assets/logo/primary-full-colour-clearspace.png",
+      "purpose": "primary logo, full colour, with minimum clear space built in",
+      "alt": "Pip & Pine Bakery logo, full colour"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark.png",
+      "purpose": "primary logo, mono dark (PNG, transparent)",
+      "alt": "Pip & Pine Bakery logo, single colour, dark"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark-clearspace.png",
+      "purpose": "primary logo, mono dark, with minimum clear space built in",
+      "alt": "Pip & Pine Bakery logo, single colour, dark"
+    },
+    {
+      "path": "assets/logo/primary-mono-light.png",
+      "purpose": "primary logo, mono light (PNG, transparent)",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/primary-mono-light-clearspace.png",
+      "purpose": "primary logo, mono light, with minimum clear space built in",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/symbol-full-colour.png",
+      "purpose": "symbol logo, full colour (PNG, transparent)",
+      "alt": "Pip & Pine Bakery symbol, full colour"
+    },
+    {
+      "path": "assets/logo/symbol-full-colour-clearspace.png",
+      "purpose": "symbol logo, full colour, with minimum clear space built in",
+      "alt": "Pip & Pine Bakery symbol, full colour"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark.png",
+      "purpose": "symbol logo, mono dark (PNG, transparent)",
+      "alt": "Pip & Pine Bakery symbol, single colour, dark"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark-clearspace.png",
+      "purpose": "symbol logo, mono dark, with minimum clear space built in",
+      "alt": "Pip & Pine Bakery symbol, single colour, dark"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light.png",
+      "purpose": "symbol logo, mono light (PNG, transparent)",
+      "alt": "Pip & Pine Bakery symbol, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light-clearspace.png",
+      "purpose": "symbol logo, mono light, with minimum clear space built in",
+      "alt": "Pip & Pine Bakery symbol, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-white.png",
+      "purpose": "Logo (full-colour) on white background",
+      "alt": "Pip & Pine Bakery logo, full colour on a white background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-light-neutral.png",
+      "purpose": "Logo (full-colour) on light-neutral background",
+      "alt": "Pip & Pine Bakery logo, full colour on a light neutral background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-primary.png",
+      "purpose": "Logo (mono-light) on primary background",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-dark.png",
+      "purpose": "Logo (mono-light) on dark background",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a dark neutral background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-secondary.png",
+      "purpose": "Logo (mono-light) on secondary background",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Forest Pine background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-accent.png",
+      "purpose": "Logo (full-colour) on accent background",
+      "alt": "Pip & Pine Bakery logo, full colour on a Honey Glaze background"
+    },
+    {
+      "path": "assets/favicons/favicon.ico",
+      "purpose": "Browser favicon (16, 32, 48 px) on a solid brand tile"
+    },
+    {
+      "path": "assets/favicons/icon-16.png",
+      "purpose": "App/browser icon 16x16",
+      "alt": "Pip & Pine Bakery icon"
+    },
+    {
+      "path": "assets/favicons/icon-32.png",
+      "purpose": "App/browser icon 32x32",
+      "alt": "Pip & Pine Bakery icon"
+    },
+    {
+      "path": "assets/favicons/icon-48.png",
+      "purpose": "App/browser icon 48x48",
+      "alt": "Pip & Pine Bakery icon"
+    },
+    {
+      "path": "assets/favicons/icon-192.png",
+      "purpose": "App/browser icon 192x192",
+      "alt": "Pip & Pine Bakery icon"
+    },
+    {
+      "path": "assets/favicons/icon-512.png",
+      "purpose": "App/browser icon 512x512",
+      "alt": "Pip & Pine Bakery icon"
+    },
+    {
+      "path": "assets/favicons/apple-touch-icon.png",
+      "purpose": "Apple touch icon 180x180 (opaque)"
+    },
+    {
+      "path": "assets/favicons/icon-maskable-512.png",
+      "purpose": "Android maskable icon 512x512 (content inside safe circle)"
+    },
+    {
+      "path": "assets/favicons/site.webmanifest",
+      "purpose": "Web app manifest"
+    },
+    {
+      "path": "assets/favicons/head-snippet.html",
+      "purpose": "HTML <head> tags for favicons"
+    },
+    {
+      "path": "assets/social/instagram/instagram-avatar-320x320.svg",
+      "purpose": "Editable template: Instagram Profile picture",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-avatar-320x320.png",
+      "purpose": "Instagram Profile picture (320x320)",
+      "alt": "Pip & Pine Bakery symbol, full colour on a light neutral background",
+      "logoVariant": "full-colour",
+      "logoContrast": 9.25,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-square-1080x1080.svg",
+      "purpose": "Editable template: Instagram Feed post (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-square-1080x1080.png",
+      "purpose": "Instagram Feed post (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-1080x1350.svg",
+      "purpose": "Editable template: Instagram Feed post (portrait 4:5)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-1080x1350.png",
+      "purpose": "Instagram Feed post (portrait 4:5) (1080x1350) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-34-1080x1440.svg",
+      "purpose": "Editable template: Instagram Feed post (portrait 3:4)",
+      "note": "Profile grid previews crop to 3:4; keep key content central."
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-34-1080x1440.png",
+      "purpose": "Instagram Feed post (portrait 3:4) (1080x1440) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": "Profile grid previews crop to 3:4; keep key content central."
+    },
+    {
+      "path": "assets/social/instagram/instagram-story-1080x1920.svg",
+      "purpose": "Editable template: Instagram Story",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-story-1080x1920.png",
+      "purpose": "Instagram Story (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-reel-1080x1920.svg",
+      "purpose": "Editable template: Instagram Reel / cover",
+      "note": "Reel cover is cropped to 1:1 on the profile grid and 3:4 in previews."
+    },
+    {
+      "path": "assets/social/instagram/instagram-reel-1080x1920.png",
+      "purpose": "Instagram Reel / cover (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": "Reel cover is cropped to 1:1 on the profile grid and 3:4 in previews."
+    },
+    {
+      "path": "assets/social/facebook/facebook-avatar-720x720.svg",
+      "purpose": "Editable template: Facebook Page profile picture",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-avatar-720x720.png",
+      "purpose": "Facebook Page profile picture (720x720)",
+      "alt": "Pip & Pine Bakery symbol, full colour on a light neutral background",
+      "logoVariant": "full-colour",
+      "logoContrast": 9.25,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/facebook/facebook-cover-1640x624.svg",
+      "purpose": "Editable template: Facebook Page cover",
+      "note": "Displays at 820x312 on desktop and 640x360 on mobile; mobile crops about 17% from each side, so keep logos and text in the central 64%."
+    },
+    {
+      "path": "assets/social/facebook/facebook-cover-1640x624.png",
+      "purpose": "Facebook Page cover (1640x624)",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": "Displays at 820x312 on desktop and 640x360 on mobile; mobile crops about 17% from each side, so keep logos and text in the central 64%."
+    },
+    {
+      "path": "assets/social/facebook/facebook-feed-portrait-1080x1350.svg",
+      "purpose": "Editable template: Facebook Feed post (4:5)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-feed-portrait-1080x1350.png",
+      "purpose": "Facebook Feed post (4:5) (1080x1350) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-feed-square-1080x1080.svg",
+      "purpose": "Editable template: Facebook Feed post (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-feed-square-1080x1080.png",
+      "purpose": "Facebook Feed post (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-link-1200x630.svg",
+      "purpose": "Editable template: Facebook Link share image",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-link-1200x630.png",
+      "purpose": "Facebook Link share image (1200x630) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-story-1080x1920.svg",
+      "purpose": "Editable template: Facebook Story",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-story-1080x1920.png",
+      "purpose": "Facebook Story (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-event-1920x1005.svg",
+      "purpose": "Editable template: Facebook Event cover",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-event-1920x1005.png",
+      "purpose": "Facebook Event cover (1920x1005) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-avatar-400x400.svg",
+      "purpose": "Editable template: LinkedIn Company page logo",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-avatar-400x400.png",
+      "purpose": "LinkedIn Company page logo (400x400)",
+      "alt": "Pip & Pine Bakery symbol, full colour on a light neutral background",
+      "logoVariant": "full-colour",
+      "logoContrast": 9.25,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-cover-1512x256.svg",
+      "purpose": "Editable template: LinkedIn Company page cover",
+      "note": "Displays at about 1128x191; keep the same ~6:1 ratio. Logo overlaps the lower-left on some layouts. Sources disagree on upload size (1512x256 vs 4200x700); verify on LinkedIn's Page image specs."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-cover-1512x256.png",
+      "purpose": "LinkedIn Company page cover (1512x256)",
+      "alt": "Pip & Pine Bakery symbol, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": "Full logo would be below its minimum size on phones, so the symbol is used. Displays at about 1128x191; keep the same ~6:1 ratio. Logo overlaps the lower-left on some layouts. Sources disagree on upload size (1512x256 vs 4200x700); verify on LinkedIn's Page image specs."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-personal-banner-1584x396.svg",
+      "purpose": "Editable template: LinkedIn Employee profile banner",
+      "note": "Profile photo overlaps the lower-left."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-personal-banner-1584x396.png",
+      "purpose": "LinkedIn Employee profile banner (1584x396)",
+      "alt": "Pip & Pine Bakery symbol, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": "Full logo would be below its minimum size on phones, so the symbol is used. Profile photo overlaps the lower-left."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-landscape-1200x627.svg",
+      "purpose": "Editable template: LinkedIn Post image (landscape)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-landscape-1200x627.png",
+      "purpose": "LinkedIn Post image (landscape) (1200x627) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-square-1080x1080.svg",
+      "purpose": "Editable template: LinkedIn Post image (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-square-1080x1080.png",
+      "purpose": "LinkedIn Post image (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-portrait-1080x1350.svg",
+      "purpose": "Editable template: LinkedIn Post image (portrait 4:5)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-portrait-1080x1350.png",
+      "purpose": "LinkedIn Post image (portrait 4:5) (1080x1350) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-avatar-400x400.svg",
+      "purpose": "Editable template: X (Twitter) Profile picture",
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-avatar-400x400.png",
+      "purpose": "X (Twitter) Profile picture (400x400)",
+      "alt": "Pip & Pine Bakery symbol, full colour on a light neutral background",
+      "logoVariant": "full-colour",
+      "logoContrast": 9.25,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/x/x-header-1500x500.svg",
+      "purpose": "Editable template: X (Twitter) Header",
+      "note": "Profile photo overlaps lower-left; top and bottom crop on some devices."
+    },
+    {
+      "path": "assets/social/x/x-header-1500x500.png",
+      "purpose": "X (Twitter) Header (1500x500)",
+      "alt": "Pip & Pine Bakery symbol, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": "Full logo would be below its minimum size on phones, so the symbol is used. Profile photo overlaps lower-left; top and bottom crop on some devices."
+    },
+    {
+      "path": "assets/social/x/x-post-landscape-1600x900.svg",
+      "purpose": "Editable template: X (Twitter) Post image (16:9)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-post-landscape-1600x900.png",
+      "purpose": "X (Twitter) Post image (16:9) (1600x900) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-post-square-1080x1080.svg",
+      "purpose": "Editable template: X (Twitter) Post image (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-post-square-1080x1080.png",
+      "purpose": "X (Twitter) Post image (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-card-1200x628.svg",
+      "purpose": "Editable template: X (Twitter) Link card image",
+      "note": ""
+    },
+    {
+      "path": "assets/social/x/x-card-1200x628.png",
+      "purpose": "X (Twitter) Link card image (1200x628) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-avatar-800x800.svg",
+      "purpose": "Editable template: YouTube Channel icon",
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-avatar-800x800.png",
+      "purpose": "YouTube Channel icon (800x800)",
+      "alt": "Pip & Pine Bakery symbol, full colour on a light neutral background",
+      "logoVariant": "full-colour",
+      "logoContrast": 9.25,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/youtube/youtube-banner-2560x1440.svg",
+      "purpose": "Editable template: YouTube Channel banner",
+      "note": "Text and logo must sit inside the central 1546x423 safe area visible on all devices."
+    },
+    {
+      "path": "assets/social/youtube/youtube-banner-2560x1440.png",
+      "purpose": "YouTube Channel banner (2560x1440)",
+      "alt": "Pip & Pine Bakery symbol, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": "Full logo would be below its minimum size on phones, so the symbol is used. Text and logo must sit inside the central 1546x423 safe area visible on all devices."
+    },
+    {
+      "path": "assets/social/youtube/youtube-thumbnail-1280x720.svg",
+      "purpose": "Editable template: YouTube Video thumbnail",
+      "note": "Duration badge covers the lower-right."
+    },
+    {
+      "path": "assets/social/youtube/youtube-thumbnail-1280x720.png",
+      "purpose": "YouTube Video thumbnail (1280x720) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": "Duration badge covers the lower-right."
+    },
+    {
+      "path": "assets/social/youtube/youtube-watermark-150x150.svg",
+      "purpose": "Editable template: YouTube Video watermark",
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-watermark-150x150.png",
+      "purpose": "YouTube Video watermark (150x150)",
+      "alt": "Pip & Pine Bakery symbol, full colour on a light neutral background",
+      "logoVariant": "full-colour",
+      "logoContrast": 9.25,
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-short-1080x1920.svg",
+      "purpose": "Editable template: YouTube Short",
+      "note": ""
+    },
+    {
+      "path": "assets/social/youtube/youtube-short-1080x1920.png",
+      "purpose": "YouTube Short (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/tiktok/tiktok-avatar-720x720.svg",
+      "purpose": "Editable template: TikTok Profile photo",
+      "note": ""
+    },
+    {
+      "path": "assets/social/tiktok/tiktok-avatar-720x720.png",
+      "purpose": "TikTok Profile photo (720x720)",
+      "alt": "Pip & Pine Bakery symbol, full colour on a light neutral background",
+      "logoVariant": "full-colour",
+      "logoContrast": 9.25,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/tiktok/tiktok-video-1080x1920.svg",
+      "purpose": "Editable template: TikTok Video",
+      "note": ""
+    },
+    {
+      "path": "assets/social/tiktok/tiktok-video-1080x1920.png",
+      "purpose": "TikTok Video (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    },
+    {
+      "path": "assets/social/web/web-og-image-1200x630.svg",
+      "purpose": "Editable template: Website sharing (Open Graph) Open Graph / social share image",
+      "note": ""
+    },
+    {
+      "path": "assets/social/web/web-og-image-1200x630.png",
+      "purpose": "Website sharing (Open Graph) Open Graph / social share image (1200x630) layout preview; add the headline using the SVG template",
+      "alt": "Pip & Pine Bakery logo, single colour, white (reversed) on a Pinecone Brown background",
+      "logoVariant": "mono-light",
+      "logoContrast": 10.14,
+      "note": ""
+    }
+  ],
+  "warnings": [],
+  "skipped": [],
+  "backgroundTests": [
+    {
+      "background": "white",
+      "hex": "#ffffff",
+      "recommendedVariant": "full-colour",
+      "contrast": 10.14,
+      "fullColourContrast": 10.14,
+      "fullColourAllowed": true,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-white.png"
+    },
+    {
+      "background": "light-neutral",
+      "hex": "#f8f6f6",
+      "recommendedVariant": "full-colour",
+      "contrast": 9.41,
+      "fullColourContrast": 9.41,
+      "fullColourAllowed": true,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-light-neutral.png"
+    },
+    {
+      "background": "primary",
+      "hex": "#5a3a29",
+      "recommendedVariant": "mono-light",
+      "contrast": 10.14,
+      "fullColourContrast": 1.0,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-primary.png"
+    },
+    {
+      "background": "dark",
+      "hex": "#140e0b",
+      "recommendedVariant": "mono-light",
+      "contrast": 19.14,
+      "fullColourContrast": 1.89,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-dark.png"
+    },
+    {
+      "background": "secondary",
+      "hex": "#2f5a45",
+      "recommendedVariant": "mono-light",
+      "contrast": 7.87,
+      "fullColourContrast": 1.29,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-secondary.png"
+    },
+    {
+      "background": "accent",
+      "hex": "#d9a441",
+      "recommendedVariant": "full-colour",
+      "contrast": 4.51,
+      "fullColourContrast": 4.51,
+      "fullColourAllowed": true,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-accent.png"
+    }
+  ],
+  "platformSpecsReviewed": "2026-10-02"
+}

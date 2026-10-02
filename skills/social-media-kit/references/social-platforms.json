@@ -1,0 +1,535 @@
+{
+  "lastReviewed": "2026-10-02",
+  "disclaimer": "Platform specifications change frequently. Verify against each platform's help centre before publishing and update this file and the style guide's review date. Sizes are recommended upload sizes in pixels; safe zones are approximate insets (fractions of width/height) kept clear of platform UI and cropping.",
+  "platforms": [
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "altText": "Supported: Advanced settings > Accessibility > Write alt text (feed posts).",
+      "captions": "Auto-captions available for Reels; review and correct them, or burn in reviewed open captions.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Profile picture",
+          "width": 320,
+          "height": 320,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "feed-square",
+          "label": "Feed post (square)",
+          "width": 1080,
+          "height": 1080,
+          "kind": "post"
+        },
+        {
+          "id": "feed-portrait",
+          "label": "Feed post (portrait 4:5)",
+          "width": 1080,
+          "height": 1350,
+          "kind": "post"
+        },
+        {
+          "id": "feed-portrait-34",
+          "label": "Feed post (portrait 3:4)",
+          "width": 1080,
+          "height": 1440,
+          "kind": "post",
+          "note": "Profile grid previews crop to 3:4; keep key content central."
+        },
+        {
+          "id": "story",
+          "label": "Story",
+          "width": 1080,
+          "height": 1920,
+          "kind": "vertical",
+          "safeZone": {
+            "top": 0.14,
+            "right": 0.06,
+            "bottom": 0.14,
+            "left": 0.06
+          }
+        },
+        {
+          "id": "reel",
+          "label": "Reel / cover",
+          "width": 1080,
+          "height": 1920,
+          "kind": "vertical",
+          "safeZone": {
+            "top": 0.14,
+            "right": 0.06,
+            "bottom": 0.35,
+            "left": 0.06
+          },
+          "note": "Reel cover is cropped to 1:1 on the profile grid and 3:4 in previews."
+        }
+      ]
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "altText": "Supported: Edit photo > Alternative text (overrides automatic alt text).",
+      "captions": "Upload an .srt caption file or use auto-generated captions, then review them.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Page profile picture",
+          "width": 720,
+          "height": 720,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "cover",
+          "label": "Page cover",
+          "width": 1640,
+          "height": 624,
+          "kind": "cover",
+          "safeZone": {
+            "top": 0.1,
+            "right": 0.18,
+            "bottom": 0.1,
+            "left": 0.18
+          },
+          "note": "Displays at 820x312 on desktop and 640x360 on mobile; mobile crops about 17% from each side, so keep logos and text in the central 64%."
+        },
+        {
+          "id": "feed-portrait",
+          "label": "Feed post (4:5)",
+          "width": 1080,
+          "height": 1350,
+          "kind": "post"
+        },
+        {
+          "id": "feed-square",
+          "label": "Feed post (square)",
+          "width": 1080,
+          "height": 1080,
+          "kind": "post"
+        },
+        {
+          "id": "link",
+          "label": "Link share image",
+          "width": 1200,
+          "height": 630,
+          "kind": "landscape"
+        },
+        {
+          "id": "story",
+          "label": "Story",
+          "width": 1080,
+          "height": 1920,
+          "kind": "vertical",
+          "safeZone": {
+            "top": 0.14,
+            "right": 0.06,
+            "bottom": 0.14,
+            "left": 0.06
+          }
+        },
+        {
+          "id": "event",
+          "label": "Event cover",
+          "width": 1920,
+          "height": 1005,
+          "kind": "landscape"
+        }
+      ]
+    },
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "altText": "Supported: Alt text option when adding an image to a post.",
+      "captions": "Upload an .srt caption file with native video.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Company page logo",
+          "width": 400,
+          "height": 400,
+          "kind": "avatar",
+          "displayShape": "square"
+        },
+        {
+          "id": "cover",
+          "label": "Company page cover",
+          "width": 1512,
+          "height": 256,
+          "kind": "cover",
+          "safeZone": {
+            "top": 0.1,
+            "right": 0.05,
+            "bottom": 0.1,
+            "left": 0.2
+          },
+          "note": "Displays at about 1128x191; keep the same ~6:1 ratio. Logo overlaps the lower-left on some layouts. Sources disagree on upload size (1512x256 vs 4200x700); verify on LinkedIn's Page image specs."
+        },
+        {
+          "id": "personal-banner",
+          "label": "Employee profile banner",
+          "width": 1584,
+          "height": 396,
+          "kind": "cover",
+          "safeZone": {
+            "top": 0.1,
+            "right": 0.05,
+            "bottom": 0.1,
+            "left": 0.3
+          },
+          "note": "Profile photo overlaps the lower-left."
+        },
+        {
+          "id": "post-landscape",
+          "label": "Post image (landscape)",
+          "width": 1200,
+          "height": 627,
+          "kind": "landscape"
+        },
+        {
+          "id": "post-square",
+          "label": "Post image (square)",
+          "width": 1080,
+          "height": 1080,
+          "kind": "post"
+        },
+        {
+          "id": "post-portrait",
+          "label": "Post image (portrait 4:5)",
+          "width": 1080,
+          "height": 1350,
+          "kind": "post"
+        }
+      ]
+    },
+    {
+      "id": "x",
+      "name": "X (Twitter)",
+      "altText": "Supported: Add description when attaching an image (up to 1,000 characters).",
+      "captions": "Upload an .srt caption file with video via Media Studio, or burn in reviewed captions.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Profile picture",
+          "width": 400,
+          "height": 400,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "header",
+          "label": "Header",
+          "width": 1500,
+          "height": 500,
+          "kind": "cover",
+          "safeZone": {
+            "top": 0.12,
+            "right": 0.05,
+            "bottom": 0.2,
+            "left": 0.25
+          },
+          "note": "Profile photo overlaps lower-left; top and bottom crop on some devices."
+        },
+        {
+          "id": "post-landscape",
+          "label": "Post image (16:9)",
+          "width": 1600,
+          "height": 900,
+          "kind": "landscape"
+        },
+        {
+          "id": "post-square",
+          "label": "Post image (square)",
+          "width": 1080,
+          "height": 1080,
+          "kind": "post"
+        },
+        {
+          "id": "card",
+          "label": "Link card image",
+          "width": 1200,
+          "height": 628,
+          "kind": "landscape"
+        }
+      ]
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "altText": "No image alt text; describe visuals in the video, title and description, and provide accurate captions.",
+      "captions": "Upload reviewed caption files; do not rely on unedited auto-captions.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Channel icon",
+          "width": 800,
+          "height": 800,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "banner",
+          "label": "Channel banner",
+          "width": 2560,
+          "height": 1440,
+          "kind": "cover",
+          "safeZone": {
+            "top": 0.3534,
+            "right": 0.198,
+            "bottom": 0.3528,
+            "left": 0.198
+          },
+          "note": "Text and logo must sit inside the central 1546x423 safe area visible on all devices."
+        },
+        {
+          "id": "thumbnail",
+          "label": "Video thumbnail",
+          "width": 1280,
+          "height": 720,
+          "kind": "landscape",
+          "safeZone": {
+            "top": 0.05,
+            "right": 0.18,
+            "bottom": 0.15,
+            "left": 0.05
+          },
+          "note": "Duration badge covers the lower-right."
+        },
+        {
+          "id": "watermark",
+          "label": "Video watermark",
+          "width": 150,
+          "height": 150,
+          "kind": "avatar",
+          "displayShape": "square"
+        },
+        {
+          "id": "short",
+          "label": "Short",
+          "width": 1080,
+          "height": 1920,
+          "kind": "vertical",
+          "safeZone": {
+            "top": 0.12,
+            "right": 0.15,
+            "bottom": 0.25,
+            "left": 0.06
+          }
+        }
+      ]
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "altText": "Supported for photo posts via alt text option; for video, rely on captions and on-screen text.",
+      "captions": "Turn on auto-captions and edit them before posting.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Profile photo",
+          "width": 720,
+          "height": 720,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "video",
+          "label": "Video",
+          "width": 1080,
+          "height": 1920,
+          "kind": "vertical",
+          "safeZone": {
+            "top": 0.08,
+            "right": 0.15,
+            "bottom": 0.22,
+            "left": 0.06
+          }
+        }
+      ]
+    },
+    {
+      "id": "threads",
+      "name": "Threads",
+      "altText": "Supported: Alt option on attached images.",
+      "captions": "Burn in reviewed captions for video.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Profile picture",
+          "width": 320,
+          "height": 320,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "post-portrait",
+          "label": "Post image (4:5)",
+          "width": 1080,
+          "height": 1350,
+          "kind": "post"
+        }
+      ]
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "altText": "Supported: Alt text field when creating a Pin.",
+      "captions": "Burn in reviewed captions for video Pins.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Profile picture",
+          "width": 280,
+          "height": 280,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "pin",
+          "label": "Standard Pin (2:3)",
+          "width": 1000,
+          "height": 1500,
+          "kind": "vertical",
+          "safeZone": {
+            "top": 0.04,
+            "right": 0.06,
+            "bottom": 0.1,
+            "left": 0.06
+          }
+        }
+      ]
+    },
+    {
+      "id": "bluesky",
+      "name": "Bluesky",
+      "altText": "Supported: ALT button on each attached image.",
+      "captions": "Upload a .vtt caption file with video.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Avatar",
+          "width": 1000,
+          "height": 1000,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "banner",
+          "label": "Banner",
+          "width": 3000,
+          "height": 1000,
+          "kind": "cover",
+          "safeZone": {
+            "top": 0.12,
+            "right": 0.05,
+            "bottom": 0.25,
+            "left": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "id": "mastodon",
+      "name": "Mastodon",
+      "altText": "Supported: Edit image > Description. Many communities expect alt text on every image.",
+      "captions": "Burn in reviewed captions for video.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Avatar",
+          "width": 400,
+          "height": 400,
+          "kind": "avatar",
+          "displayShape": "rounded-square"
+        },
+        {
+          "id": "header",
+          "label": "Header",
+          "width": 1500,
+          "height": 500,
+          "kind": "cover",
+          "safeZone": {
+            "top": 0.1,
+            "right": 0.05,
+            "bottom": 0.25,
+            "left": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp Business",
+      "altText": "Not supported for images; put essential information in the message text.",
+      "captions": "Burn in reviewed captions for video and status updates.",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Business profile picture",
+          "width": 640,
+          "height": 640,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "status",
+          "label": "Status",
+          "width": 1080,
+          "height": 1920,
+          "kind": "vertical",
+          "safeZone": {
+            "top": 0.14,
+            "right": 0.06,
+            "bottom": 0.14,
+            "left": 0.06
+          }
+        }
+      ]
+    },
+    {
+      "id": "google-business",
+      "name": "Google Business Profile",
+      "altText": "Not configurable; use descriptive file names and post text.",
+      "captions": "n/a",
+      "formats": [
+        {
+          "id": "avatar",
+          "label": "Logo",
+          "width": 720,
+          "height": 720,
+          "kind": "avatar",
+          "displayShape": "circle"
+        },
+        {
+          "id": "cover",
+          "label": "Cover photo",
+          "width": 1080,
+          "height": 608,
+          "kind": "landscape"
+        }
+      ]
+    },
+    {
+      "id": "web",
+      "name": "Website sharing (Open Graph)",
+      "altText": "Set og:image:alt and twitter:image:alt meta tags.",
+      "captions": "n/a",
+      "formats": [
+        {
+          "id": "og-image",
+          "label": "Open Graph / social share image",
+          "width": 1200,
+          "height": 630,
+          "kind": "landscape",
+          "safeZone": {
+            "top": 0.08,
+            "right": 0.08,
+            "bottom": 0.08,
+            "left": 0.08
+          }
+        }
+      ]
+    }
+  ]
+}

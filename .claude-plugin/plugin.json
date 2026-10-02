@@ -1,0 +1,26 @@
+{
+  "name": "style-guide-creator",
+  "displayName": "Style Guide Creator",
+  "version": "1.1.0",
+  "description": "Create a complete, accessible brand style guide for an organisation from just its logo. Analyses the logo, builds a WCAG 2.2 AA colour system, typography, layout, iconography, imagery, motion, voice and tone, writing style, digital, print, signage, co-branding and legal guidance, plus a full social media kit (avatars, covers, post templates with safe zones, alt-text and caption rules). Outputs an accessible HTML guide, Markdown, PDF, design tokens (DTCG JSON, CSS, SCSS, Tailwind) and a ready-to-use asset kit, all checked by an automated accessibility quality gate.",
+  "author": {
+    "name": "pkrcoding"
+  },
+  "homepage": "https://github.com/pkrcoding/style_guide_creator_plugin",
+  "repository": "https://github.com/pkrcoding/style_guide_creator_plugin",
+  "license": "MIT",
+  "keywords": [
+    "brand",
+    "style-guide",
+    "brand-guidelines",
+    "design-system",
+    "accessibility",
+    "wcag",
+    "design-tokens",
+    "logo",
+    "colour",
+    "typography",
+    "social-media",
+    "marketing"
+  ]
+}
