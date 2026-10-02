@@ -1,0 +1,173 @@
+{
+  "file": "/private/tmp/claude-501/-Users-praveenrajendran-dev-claude-plugins-style-guide-creator-GitHub/368f2b3c-4834-433b-92e1-a886beba3ae5/scratchpad/build/harbourside-community-trust/guide/assets/source/logo.png",
+  "format": "png",
+  "dimensions": {
+    "width": 1289,
+    "height": 400
+  },
+  "background": {
+    "type": "transparent",
+    "hex": null
+  },
+  "contentBox": {
+    "x": 0.0156,
+    "y": 0.0503,
+    "width": 0.9688,
+    "height": 0.8994,
+    "paddingFraction": {
+      "left": 0.016,
+      "right": 0.016,
+      "top": 0.05,
+      "bottom": 0.05
+    }
+  },
+  "contentAspectRatio": 3.471,
+  "orientation": "wide-horizontal",
+  "colours": [
+    {
+      "name": "blue",
+      "hex": "#1d4e89",
+      "rgb": "rgb(29 78 137)",
+      "hsl": "hsl(213 65% 33%)",
+      "oklch": "oklch(42.3% 0.111 255.1)",
+      "cmyk": "C79 M43 Y0 K46",
+      "share": 0.7595,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 8.39,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": true,
+        "aaaLarge": true,
+        "rating": "AAA"
+      },
+      "onBlack": {
+        "ratio": 2.5,
+        "aaBody": false,
+        "aaLarge": false,
+        "aaUi": false,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "Fail"
+      },
+      "edgeShare": 0.6599,
+      "touchesBackground": true
+    },
+    {
+      "name": "red",
+      "hex": "#f36c5c",
+      "rgb": "rgb(243 108 92)",
+      "hsl": "hsl(6 86% 66%)",
+      "oklch": "oklch(69.3% 0.169 29.0)",
+      "cmyk": "C0 M56 Y62 K5",
+      "share": 0.1388,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 2.95,
+        "aaBody": false,
+        "aaLarge": false,
+        "aaUi": false,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "Fail"
+      },
+      "onBlack": {
+        "ratio": 7.11,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": true,
+        "aaaLarge": true,
+        "rating": "AAA"
+      },
+      "edgeShare": 0.3267,
+      "touchesBackground": true
+    },
+    {
+      "name": "white",
+      "hex": "#fefeff",
+      "rgb": "rgb(254 254 255)",
+      "hsl": "hsl(240 100% 100%)",
+      "oklch": "oklch(99.7% 0.001 286.4)",
+      "cmyk": "C0 M0 Y0 K0",
+      "share": 0.0653,
+      "isNeutral": true,
+      "onWhite": {
+        "ratio": 1.01,
+        "aaBody": false,
+        "aaLarge": false,
+        "aaUi": false,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "Fail"
+      },
+      "onBlack": {
+        "ratio": 20.83,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": true,
+        "aaaLarge": true,
+        "rating": "AAA"
+      },
+      "edgeShare": 0.0086,
+      "touchesBackground": false
+    },
+    {
+      "name": "blue",
+      "hex": "#9ec8e7",
+      "rgb": "rgb(158 200 231)",
+      "hsl": "hsl(205 60% 76%)",
+      "oklch": "oklch(81.3% 0.063 240.5)",
+      "cmyk": "C32 M13 Y0 K9",
+      "share": 0.0364,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 1.77,
+        "aaBody": false,
+        "aaLarge": false,
+        "aaUi": false,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "Fail"
+      },
+      "onBlack": {
+        "ratio": 11.87,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": true,
+        "aaaLarge": true,
+        "rating": "AAA"
+      },
+      "edgeShare": 0.0047,
+      "touchesBackground": false
+    }
+  ],
+  "resolutionWarning": null,
+  "possibleGradient": false,
+  "recommendations": {
+    "fullColourOnWhite": false,
+    "fullColourOnBlack": false,
+    "lowestContrastOnWhite": 2.95,
+    "lowestContrastOnBlack": 2.5,
+    "notes": [
+      "Logo colours ['#f36c5c'] are below 3:1 on white. Use a dark or brand-colour background for the full-colour logo, or use the mono version on light backgrounds.",
+      "Logo colours ['#1d4e89'] are below 3:1 on black. Use the reversed (white) logo on dark backgrounds."
+    ],
+    "cvdRisks": [],
+    "seedColours": [
+      "#1d4e89",
+      "#f36c5c",
+      "#9ec8e7"
+    ],
+    "needsSymbolForAvatars": true,
+    "avatarNote": "Wide logo: it will be illegible inside circular social avatars. Use the symbol/monogram alone, or create a stacked lock-up for square formats.",
+    "suggestedMinSize": {
+      "digitalWidthPx": 69,
+      "printWidthMm": 24,
+      "rationale": "Starting point only: confirm by viewing the logo at this size and checking the smallest detail and any text stay legible."
+    }
+  }
+}

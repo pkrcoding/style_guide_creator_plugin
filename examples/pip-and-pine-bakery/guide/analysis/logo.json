@@ -1,0 +1,79 @@
+{
+  "file": "/private/tmp/claude-501/-Users-praveenrajendran-dev-claude-plugins-style-guide-creator-GitHub/368f2b3c-4834-433b-92e1-a886beba3ae5/scratchpad/build/pip-and-pine-bakery/guide/assets/source/logo.jpg",
+  "format": "jpg",
+  "dimensions": {
+    "width": 1200,
+    "height": 1200
+  },
+  "background": {
+    "type": "solid",
+    "hex": "#fbf4e4"
+  },
+  "contentBox": {
+    "x": 0.1074,
+    "y": 0.1074,
+    "width": 0.7852,
+    "height": 0.7852,
+    "paddingFraction": {
+      "left": 0.107,
+      "right": 0.107,
+      "top": 0.107,
+      "bottom": 0.107
+    }
+  },
+  "contentAspectRatio": 1.0,
+  "orientation": "square",
+  "colours": [
+    {
+      "name": "dark orange",
+      "hex": "#5a3a29",
+      "rgb": "rgb(90 58 41)",
+      "hsl": "hsl(21 37% 26%)",
+      "oklch": "oklch(38.2% 0.053 48.6)",
+      "cmyk": "C0 M36 Y54 K65",
+      "share": 1.0,
+      "isNeutral": false,
+      "onWhite": {
+        "ratio": 10.14,
+        "aaBody": true,
+        "aaLarge": true,
+        "aaUi": true,
+        "aaaBody": true,
+        "aaaLarge": true,
+        "rating": "AAA"
+      },
+      "onBlack": {
+        "ratio": 2.07,
+        "aaBody": false,
+        "aaLarge": false,
+        "aaUi": false,
+        "aaaBody": false,
+        "aaaLarge": false,
+        "rating": "Fail"
+      },
+      "edgeShare": 1.0,
+      "touchesBackground": true
+    }
+  ],
+  "resolutionWarning": null,
+  "possibleGradient": false,
+  "recommendations": {
+    "fullColourOnWhite": true,
+    "fullColourOnBlack": false,
+    "lowestContrastOnWhite": 10.14,
+    "lowestContrastOnBlack": 2.07,
+    "notes": [
+      "Logo colours ['#5a3a29'] are below 3:1 on black. Use the reversed (white) logo on dark backgrounds."
+    ],
+    "cvdRisks": [],
+    "seedColours": [
+      "#5a3a29"
+    ],
+    "needsSymbolForAvatars": false,
+    "suggestedMinSize": {
+      "digitalWidthPx": 24,
+      "printWidthMm": 10,
+      "rationale": "Starting point only: confirm by viewing the logo at this size and checking the smallest detail and any text stay legible."
+    }
+  }
+}

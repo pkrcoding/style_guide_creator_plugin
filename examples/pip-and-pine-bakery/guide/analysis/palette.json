@@ -1,0 +1,659 @@
+{
+  "brand": [
+    {
+      "id": "primary",
+      "name": "Dark Orange",
+      "role": "primary",
+      "hex": "#5a3a29",
+      "rgb": "rgb(90 58 41)",
+      "hsl": "hsl(21 37% 26%)",
+      "oklch": "oklch(38.2% 0.053 48.6)",
+      "cmyk": "C0 M36 Y54 K65",
+      "pinnedStep": "800",
+      "scale": {
+        "50": "#fcf5f2",
+        "100": "#f8eae2",
+        "200": "#eed5c8",
+        "300": "#deb8a4",
+        "400": "#c5967d",
+        "500": "#ab795e",
+        "600": "#8d5f47",
+        "700": "#724a36",
+        "800": "#5a3a29",
+        "900": "#3d2518",
+        "950": "#25130a"
+      },
+      "steps": {
+        "50": {
+          "hex": "#fcf5f2",
+          "oklch": "oklch(97.5% 0.009 44.9)",
+          "contrastWithWhite": 1.08,
+          "contrastWithBlack": 19.48,
+          "textColour": "#140e0b"
+        },
+        "100": {
+          "hex": "#f8eae2",
+          "oklch": "oklch(94.6% 0.019 52.0)",
+          "contrastWithWhite": 1.18,
+          "contrastWithBlack": 17.86,
+          "textColour": "#140e0b"
+        },
+        "200": {
+          "hex": "#eed5c8",
+          "oklch": "oklch(89.0% 0.033 49.3)",
+          "contrastWithWhite": 1.4,
+          "contrastWithBlack": 14.99,
+          "textColour": "#140e0b"
+        },
+        "300": {
+          "hex": "#deb8a4",
+          "oklch": "oklch(81.1% 0.052 49.3)",
+          "contrastWithWhite": 1.83,
+          "contrastWithBlack": 11.5,
+          "textColour": "#140e0b"
+        },
+        "400": {
+          "hex": "#c5967d",
+          "oklch": "oklch(71.1% 0.067 49.3)",
+          "contrastWithWhite": 2.61,
+          "contrastWithBlack": 8.03,
+          "textColour": "#140e0b"
+        },
+        "500": {
+          "hex": "#ab795e",
+          "oklch": "oklch(62.0% 0.074 49.3)",
+          "contrastWithWhite": 3.73,
+          "contrastWithBlack": 5.63,
+          "textColour": "#140e0b"
+        },
+        "600": {
+          "hex": "#8d5f47",
+          "oklch": "oklch(52.9% 0.070 48.3)",
+          "contrastWithWhite": 5.44,
+          "contrastWithBlack": 3.86,
+          "textColour": "#ffffff"
+        },
+        "700": {
+          "hex": "#724a36",
+          "oklch": "oklch(44.9% 0.063 47.2)",
+          "contrastWithWhite": 7.64,
+          "contrastWithBlack": 2.75,
+          "textColour": "#ffffff"
+        },
+        "800": {
+          "hex": "#5a3a29",
+          "oklch": "oklch(38.2% 0.053 48.6)",
+          "contrastWithWhite": 10.14,
+          "contrastWithBlack": 2.07,
+          "textColour": "#ffffff"
+        },
+        "900": {
+          "hex": "#3d2518",
+          "oklch": "oklch(29.1% 0.043 48.9)",
+          "contrastWithWhite": 14.23,
+          "contrastWithBlack": 1.48,
+          "textColour": "#ffffff"
+        },
+        "950": {
+          "hex": "#25130a",
+          "oklch": "oklch(21.0% 0.034 46.9)",
+          "contrastWithWhite": 17.85,
+          "contrastWithBlack": 1.18,
+          "textColour": "#ffffff"
+        }
+      },
+      "accessible": {
+        "textOnLight": {
+          "step": "600",
+          "hex": "#8d5f47",
+          "ratio": 5.44
+        },
+        "uiOnLight": {
+          "step": "500",
+          "hex": "#ab795e",
+          "ratio": 3.73
+        },
+        "textOnDark": {
+          "step": "500",
+          "hex": "#ab795e",
+          "ratio": 5.13
+        },
+        "uiOnDark": {
+          "step": "600",
+          "hex": "#8d5f47",
+          "ratio": 3.52
+        },
+        "solidWithWhiteText": {
+          "step": "600",
+          "hex": "#8d5f47",
+          "ratio": 5.44
+        }
+      },
+      "original": {
+        "onWhite": {
+          "ratio": 10.14,
+          "aaBody": true,
+          "aaLarge": true,
+          "aaUi": true,
+          "aaaBody": true,
+          "aaaLarge": true,
+          "rating": "AAA"
+        },
+        "onBlack": {
+          "ratio": 2.07,
+          "aaBody": false,
+          "aaLarge": false,
+          "aaUi": false,
+          "aaaBody": false,
+          "aaaLarge": false,
+          "rating": "Fail"
+        },
+        "withWhiteText": {
+          "ratio": 10.14,
+          "aaBody": true,
+          "aaLarge": true,
+          "aaUi": true,
+          "aaaBody": true,
+          "aaaLarge": true,
+          "rating": "AAA"
+        }
+      }
+    }
+  ],
+  "neutral": {
+    "id": "neutral",
+    "scale": {
+      "50": "#f8f6f6",
+      "100": "#eeeceb",
+      "200": "#dedad8",
+      "300": "#c6bfbc",
+      "400": "#a7a09c",
+      "500": "#8d8480",
+      "600": "#726a66",
+      "700": "#5a5450",
+      "800": "#443e3c",
+      "900": "#2e2a28",
+      "950": "#140e0b"
+    },
+    "steps": {
+      "50": {
+        "hex": "#f8f6f6",
+        "oklch": "oklch(97.5% 0.002 17.2)",
+        "contrastWithWhite": 1.08,
+        "contrastWithBlack": 19.5,
+        "textColour": "#140e0b"
+      },
+      "100": {
+        "hex": "#eeeceb",
+        "oklch": "oklch(94.4% 0.003 48.7)",
+        "contrastWithWhite": 1.18,
+        "contrastWithBlack": 17.83,
+        "textColour": "#140e0b"
+      },
+      "200": {
+        "hex": "#dedad8",
+        "oklch": "oklch(89.1% 0.005 48.7)",
+        "contrastWithWhite": 1.39,
+        "contrastWithBlack": 15.13,
+        "textColour": "#140e0b"
+      },
+      "300": {
+        "hex": "#c6bfbc",
+        "oklch": "oklch(80.9% 0.009 44.9)",
+        "contrastWithWhite": 1.81,
+        "contrastWithBlack": 11.58,
+        "textColour": "#140e0b"
+      },
+      "400": {
+        "hex": "#a7a09c",
+        "oklch": "oklch(71.0% 0.010 52.0)",
+        "contrastWithWhite": 2.58,
+        "contrastWithBlack": 8.15,
+        "textColour": "#140e0b"
+      },
+      "500": {
+        "hex": "#8d8480",
+        "oklch": "oklch(62.0% 0.012 45.6)",
+        "contrastWithWhite": 3.66,
+        "contrastWithBlack": 5.74,
+        "textColour": "#140e0b"
+      },
+      "600": {
+        "hex": "#726a66",
+        "oklch": "oklch(53.0% 0.012 48.5)",
+        "contrastWithWhite": 5.29,
+        "contrastWithBlack": 3.97,
+        "textColour": "#ffffff"
+      },
+      "700": {
+        "hex": "#5a5450",
+        "oklch": "oklch(45.0% 0.010 56.1)",
+        "contrastWithWhite": 7.45,
+        "contrastWithBlack": 2.82,
+        "textColour": "#ffffff"
+      },
+      "800": {
+        "hex": "#443e3c",
+        "oklch": "oklch(36.9% 0.009 39.4)",
+        "contrastWithWhite": 10.5,
+        "contrastWithBlack": 2.0,
+        "textColour": "#ffffff"
+      },
+      "900": {
+        "hex": "#2e2a28",
+        "oklch": "oklch(28.9% 0.007 48.5)",
+        "contrastWithWhite": 14.21,
+        "contrastWithBlack": 1.48,
+        "textColour": "#ffffff"
+      },
+      "950": {
+        "hex": "#140e0b",
+        "oklch": "oklch(17.0% 0.012 48.0)",
+        "contrastWithWhite": 19.14,
+        "contrastWithBlack": 1.1,
+        "textColour": "#ffffff"
+      }
+    },
+    "accessible": {
+      "body": {
+        "step": "900",
+        "hex": "#2e2a28",
+        "ratio": 14.21
+      },
+      "secondaryText": {
+        "step": "600",
+        "hex": "#726a66",
+        "ratio": 5.29
+      },
+      "border": {
+        "step": "500",
+        "hex": "#8d8480",
+        "ratio": 3.66
+      },
+      "decorativeBorder": {
+        "step": "200",
+        "hex": "#dedad8"
+      }
+    }
+  },
+  "semantic": [
+    {
+      "id": "success",
+      "scale": {
+        "50": "#eefbf0",
+        "100": "#dbf5df",
+        "200": "#bae9c2",
+        "300": "#8bd69a",
+        "400": "#55ba70",
+        "500": "#20a04e",
+        "600": "#00823a",
+        "700": "#00672c",
+        "800": "#004e20",
+        "900": "#003614",
+        "950": "#001f08"
+      },
+      "tokens": {
+        "fg": {
+          "step": "600",
+          "hex": "#00823a",
+          "ratio": 4.94
+        },
+        "bg": {
+          "step": "50",
+          "hex": "#eefbf0"
+        },
+        "border": {
+          "step": "500",
+          "hex": "#20a04e",
+          "ratio": 3.39
+        },
+        "solid": {
+          "step": "600",
+          "hex": "#00823a",
+          "ratio": 4.94
+        },
+        "fgOnDark": {
+          "step": "500",
+          "hex": "#20a04e",
+          "ratio": 5.65
+        }
+      }
+    },
+    {
+      "id": "warning",
+      "scale": {
+        "50": "#fff5e9",
+        "100": "#fdead0",
+        "200": "#f7d5a6",
+        "300": "#ebb66a",
+        "400": "#d59219",
+        "500": "#b37900",
+        "600": "#916100",
+        "700": "#744c00",
+        "800": "#573900",
+        "900": "#3d2600",
+        "950": "#241500"
+      },
+      "tokens": {
+        "fg": {
+          "step": "600",
+          "hex": "#916100",
+          "ratio": 5.37
+        },
+        "bg": {
+          "step": "50",
+          "hex": "#fff5e9"
+        },
+        "border": {
+          "step": "500",
+          "hex": "#b37900",
+          "ratio": 3.72
+        },
+        "solid": {
+          "step": "600",
+          "hex": "#916100",
+          "ratio": 5.37
+        },
+        "fgOnDark": {
+          "step": "500",
+          "hex": "#b37900",
+          "ratio": 5.15
+        }
+      }
+    },
+    {
+      "id": "error",
+      "scale": {
+        "50": "#fff4f2",
+        "100": "#ffe6e3",
+        "200": "#ffcdc6",
+        "300": "#ffa69b",
+        "400": "#ee7b6f",
+        "500": "#d5584f",
+        "600": "#b33f38",
+        "700": "#922e28",
+        "800": "#701f1b",
+        "900": "#50120f",
+        "950": "#320605"
+      },
+      "tokens": {
+        "fg": {
+          "step": "600",
+          "hex": "#b33f38",
+          "ratio": 5.7
+        },
+        "bg": {
+          "step": "50",
+          "hex": "#fff4f2"
+        },
+        "border": {
+          "step": "500",
+          "hex": "#d5584f",
+          "ratio": 3.93
+        },
+        "solid": {
+          "step": "600",
+          "hex": "#b33f38",
+          "ratio": 5.7
+        },
+        "fgOnDark": {
+          "step": "500",
+          "hex": "#d5584f",
+          "ratio": 4.86
+        }
+      }
+    },
+    {
+      "id": "info",
+      "scale": {
+        "50": "#f1f8ff",
+        "100": "#e0efff",
+        "200": "#c0deff",
+        "300": "#8fc6ff",
+        "400": "#53a6f7",
+        "500": "#2389e2",
+        "600": "#006ebe",
+        "700": "#005798",
+        "800": "#004174",
+        "900": "#002c52",
+        "950": "#001932"
+      },
+      "tokens": {
+        "fg": {
+          "step": "600",
+          "hex": "#006ebe",
+          "ratio": 5.28
+        },
+        "bg": {
+          "step": "50",
+          "hex": "#f1f8ff"
+        },
+        "border": {
+          "step": "500",
+          "hex": "#2389e2",
+          "ratio": 3.65
+        },
+        "solid": {
+          "step": "600",
+          "hex": "#006ebe",
+          "ratio": 5.28
+        },
+        "fgOnDark": {
+          "step": "500",
+          "hex": "#2389e2",
+          "ratio": 5.24
+        }
+      }
+    }
+  ],
+  "surfaces": {
+    "light": "#ffffff",
+    "dark": "#140e0b"
+  },
+  "proportions": {
+    "neutral": 60,
+    "primary": 40
+  },
+  "pairings": [
+    {
+      "fg": "#2e2a28",
+      "bg": "#ffffff",
+      "fgToken": "neutral-900",
+      "bgToken": "white",
+      "use": "body",
+      "label": "Body text on light background",
+      "ratio": 14.21,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AAA"
+    },
+    {
+      "fg": "#726a66",
+      "bg": "#ffffff",
+      "fgToken": "neutral-600",
+      "bgToken": "white",
+      "use": "body",
+      "label": "Secondary text / captions on light background",
+      "ratio": 5.29,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AA"
+    },
+    {
+      "fg": "#f8f6f6",
+      "bg": "#140e0b",
+      "fgToken": "neutral-50",
+      "bgToken": "neutral-950",
+      "use": "body",
+      "label": "Body text on dark background",
+      "ratio": 17.77,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AAA"
+    },
+    {
+      "fg": "#8d5f47",
+      "bg": "#ffffff",
+      "fgToken": "primary-600",
+      "bgToken": "white",
+      "use": "body",
+      "label": "Dark Orange text and links on light background",
+      "ratio": 5.44,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AA"
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#8d5f47",
+      "fgToken": "white",
+      "bgToken": "primary-600",
+      "use": "body",
+      "label": "White text on Dark Orange buttons and banners",
+      "ratio": 5.44,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AA"
+    },
+    {
+      "fg": "#ab795e",
+      "bg": "#140e0b",
+      "fgToken": "primary-500",
+      "bgToken": "neutral-950",
+      "use": "body",
+      "label": "Dark Orange text and links on dark background",
+      "ratio": 5.13,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AA"
+    },
+    {
+      "fg": "#5a3a29",
+      "bg": "#ffffff",
+      "fgToken": "primary",
+      "bgToken": "white",
+      "use": "body",
+      "label": "Exact Dark Orange on white (any text)",
+      "ratio": 10.14,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AAA"
+    },
+    {
+      "fg": "#ffffff",
+      "bg": "#5a3a29",
+      "fgToken": "white",
+      "bgToken": "primary",
+      "use": "body",
+      "label": "Text on exact Dark Orange background",
+      "ratio": 10.14,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AAA"
+    },
+    {
+      "fg": "#00823a",
+      "bg": "#eefbf0",
+      "fgToken": "success-600",
+      "bgToken": "success-50",
+      "use": "body",
+      "label": "Success message text on tinted background",
+      "ratio": 4.63,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AA"
+    },
+    {
+      "fg": "#916100",
+      "bg": "#fff5e9",
+      "fgToken": "warning-600",
+      "bgToken": "warning-50",
+      "use": "body",
+      "label": "Warning message text on tinted background",
+      "ratio": 4.98,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AA"
+    },
+    {
+      "fg": "#b33f38",
+      "bg": "#fff4f2",
+      "fgToken": "error-600",
+      "bgToken": "error-50",
+      "use": "body",
+      "label": "Error message text on tinted background",
+      "ratio": 5.29,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AA"
+    },
+    {
+      "fg": "#006ebe",
+      "bg": "#f1f8ff",
+      "fgToken": "info-600",
+      "bgToken": "info-50",
+      "use": "body",
+      "label": "Info message text on tinted background",
+      "ratio": 4.93,
+      "required": 4.5,
+      "pass": true,
+      "rating": "AA"
+    }
+  ],
+  "cvd": [
+    {
+      "pair": [
+        "Success",
+        "Warning"
+      ],
+      "vision": "protanopia",
+      "deltaE": 0.065
+    },
+    {
+      "pair": [
+        "Success",
+        "Warning"
+      ],
+      "vision": "deuteranopia",
+      "deltaE": 0.046
+    },
+    {
+      "pair": [
+        "Success",
+        "Error"
+      ],
+      "vision": "deuteranopia",
+      "deltaE": 0.019
+    },
+    {
+      "pair": [
+        "Success",
+        "Info"
+      ],
+      "vision": "tritanopia",
+      "deltaE": 0.04
+    },
+    {
+      "pair": [
+        "Warning",
+        "Error"
+      ],
+      "vision": "protanopia",
+      "deltaE": 0.071
+    },
+    {
+      "pair": [
+        "Warning",
+        "Error"
+      ],
+      "vision": "deuteranopia",
+      "deltaE": 0.03
+    }
+  ],
+  "notes": [
+    "Success and Warning may be confused (protanopia, deuteranopia). Add labels, icons, patterns or a lightness difference wherever they carry meaning together.",
+    "Success and Error may be confused (deuteranopia). Add labels, icons, patterns or a lightness difference wherever they carry meaning together.",
+    "Success and Info may be confused (tritanopia). Add labels, icons, patterns or a lightness difference wherever they carry meaning together.",
+    "Warning and Error may be confused (protanopia, deuteranopia). Add labels, icons, patterns or a lightness difference wherever they carry meaning together."
+  ]
+}

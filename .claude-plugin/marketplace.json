@@ -1,0 +1,16 @@
+{
+  "name": "style-guide-creator",
+  "owner": {
+    "name": "Praveen Rajendran"
+  },
+  "metadata": {
+    "description": "Accessible brand style guides generated from an organisation's logo."
+  },
+  "plugins": [
+    {
+      "name": "style-guide-creator",
+      "source": "./",
+      "description": "Create a complete, accessible brand style guide (including social media) from just a logo."
+    }
+  ]
+}

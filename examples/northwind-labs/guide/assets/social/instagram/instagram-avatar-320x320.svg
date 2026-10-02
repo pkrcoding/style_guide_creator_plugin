@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Northwind Labs Instagram Profile picture template</title>
+  <desc id="desc">Template 320x320px. Keep text and logos inside the dashed safe zone. Text colour #ffffff on #0f6e7a = 5.9:1. Delete the "guides" group before export.</desc>
+  <rect id="background" width="320" height="320" fill="#0f6e7a"/>
+  <g id="artwork"><image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idCI+CiAgPHRpdGxlIGlkPSJ0Ij5Ob3J0aHdpbmQgTGFicyBzeW1ib2w8L3RpdGxlPgogIDxjaXJjbGUgY3g9IjY0IiBjeT0iNjQiIHI9IjYwIiBmaWxsPSIjMEY2RTdBIi8+CiAgPHBhdGggZD0iTTMwIDkyIEw2NCAzMCBMOTggOTIgWiIgZmlsbD0iI0YyQTU0MSIvPgogIDxwYXRoIGQ9Ik00NiA5MiBMNjQgNjAgTDgyIDkyIFoiIGZpbGw9IiMwRjZFN0EiLz4KPC9zdmc+Cg==" x="61" y="61" width="198" height="198" preserveAspectRatio="xMidYMid meet"/></g>
+  <g id="guides" fill="none" stroke="#ff00aa" stroke-width="2" stroke-dasharray="12 8">
+    <rect x="26" y="26" width="269" height="269"/>
+    <circle cx="160.0" cy="160.0" r="160.0"/>
+  </g>
+</svg>

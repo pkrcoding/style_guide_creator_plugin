@@ -1,0 +1,538 @@
+{
+  "files": [
+    {
+      "path": "assets/logo/primary-original.png",
+      "purpose": "Original logo file as supplied",
+      "alt": "Harbourside Community Trust logo"
+    },
+    {
+      "path": "assets/logo/primary-full-colour.png",
+      "purpose": "primary logo, full colour (PNG, transparent)",
+      "alt": "Harbourside Community Trust logo, full colour"
+    },
+    {
+      "path": "assets/logo/primary-full-colour-clearspace.png",
+      "purpose": "primary logo, full colour, with minimum clear space built in",
+      "alt": "Harbourside Community Trust logo, full colour"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark.png",
+      "purpose": "primary logo, mono dark (PNG, transparent)",
+      "alt": "Harbourside Community Trust logo, single colour, dark"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark-clearspace.png",
+      "purpose": "primary logo, mono dark, with minimum clear space built in",
+      "alt": "Harbourside Community Trust logo, single colour, dark"
+    },
+    {
+      "path": "assets/logo/primary-mono-light.png",
+      "purpose": "primary logo, mono light (PNG, transparent)",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/primary-mono-light-clearspace.png",
+      "purpose": "primary logo, mono light, with minimum clear space built in",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark-knockout.png",
+      "purpose": "primary logo, mono dark knockout (PNG, transparent)",
+      "alt": "Harbourside Community Trust logo, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/primary-mono-dark-knockout-clearspace.png",
+      "purpose": "primary logo, mono dark knockout, with minimum clear space built in",
+      "alt": "Harbourside Community Trust logo, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/primary-mono-light-knockout.png",
+      "purpose": "primary logo, mono light knockout (PNG, transparent)",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/primary-mono-light-knockout-clearspace.png",
+      "purpose": "primary logo, mono light knockout, with minimum clear space built in",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-full-colour.png",
+      "purpose": "symbol logo, full colour (PNG, transparent)",
+      "alt": "Harbourside Community Trust symbol, full colour"
+    },
+    {
+      "path": "assets/logo/symbol-full-colour-clearspace.png",
+      "purpose": "symbol logo, full colour, with minimum clear space built in",
+      "alt": "Harbourside Community Trust symbol, full colour"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark.png",
+      "purpose": "symbol logo, mono dark (PNG, transparent)",
+      "alt": "Harbourside Community Trust symbol, single colour, dark"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark-clearspace.png",
+      "purpose": "symbol logo, mono dark, with minimum clear space built in",
+      "alt": "Harbourside Community Trust symbol, single colour, dark"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light.png",
+      "purpose": "symbol logo, mono light (PNG, transparent)",
+      "alt": "Harbourside Community Trust symbol, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light-clearspace.png",
+      "purpose": "symbol logo, mono light, with minimum clear space built in",
+      "alt": "Harbourside Community Trust symbol, single colour, white (reversed)"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark-knockout.png",
+      "purpose": "symbol logo, mono dark knockout (PNG, transparent)",
+      "alt": "Harbourside Community Trust symbol, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-mono-dark-knockout-clearspace.png",
+      "purpose": "symbol logo, mono dark knockout, with minimum clear space built in",
+      "alt": "Harbourside Community Trust symbol, single colour, dark, with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light-knockout.png",
+      "purpose": "symbol logo, mono light knockout (PNG, transparent)",
+      "alt": "Harbourside Community Trust symbol, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/symbol-mono-light-knockout-clearspace.png",
+      "purpose": "symbol logo, mono light knockout, with minimum clear space built in",
+      "alt": "Harbourside Community Trust symbol, single colour, white (reversed), with cut-out details"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-white.png",
+      "purpose": "Logo (full-colour) on white background",
+      "alt": "Harbourside Community Trust logo, full colour on a white background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-light-neutral.png",
+      "purpose": "Logo (mono-dark) on light-neutral background",
+      "alt": "Harbourside Community Trust logo, single colour, dark, with cut-out details on a light neutral background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-primary.png",
+      "purpose": "Logo (mono-light) on primary background",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-dark.png",
+      "purpose": "Logo (mono-light) on dark background",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a dark neutral background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-secondary.png",
+      "purpose": "Logo (mono-dark) on secondary background",
+      "alt": "Harbourside Community Trust logo, single colour, dark, with cut-out details on a Sunset Coral background"
+    },
+    {
+      "path": "assets/logo/backgrounds/logo-on-accent.png",
+      "purpose": "Logo (mono-dark) on accent background",
+      "alt": "Harbourside Community Trust logo, single colour, dark, with cut-out details on a Tide Blue background"
+    },
+    {
+      "path": "assets/favicons/favicon.ico",
+      "purpose": "Browser favicon (16, 32, 48 px) on a solid brand tile"
+    },
+    {
+      "path": "assets/favicons/icon-16.png",
+      "purpose": "App/browser icon 16x16",
+      "alt": "Harbourside Community Trust icon"
+    },
+    {
+      "path": "assets/favicons/icon-32.png",
+      "purpose": "App/browser icon 32x32",
+      "alt": "Harbourside Community Trust icon"
+    },
+    {
+      "path": "assets/favicons/icon-48.png",
+      "purpose": "App/browser icon 48x48",
+      "alt": "Harbourside Community Trust icon"
+    },
+    {
+      "path": "assets/favicons/icon-192.png",
+      "purpose": "App/browser icon 192x192",
+      "alt": "Harbourside Community Trust icon"
+    },
+    {
+      "path": "assets/favicons/icon-512.png",
+      "purpose": "App/browser icon 512x512",
+      "alt": "Harbourside Community Trust icon"
+    },
+    {
+      "path": "assets/favicons/apple-touch-icon.png",
+      "purpose": "Apple touch icon 180x180 (opaque)"
+    },
+    {
+      "path": "assets/favicons/icon-maskable-512.png",
+      "purpose": "Android maskable icon 512x512 (content inside safe circle)"
+    },
+    {
+      "path": "assets/favicons/site.webmanifest",
+      "purpose": "Web app manifest"
+    },
+    {
+      "path": "assets/favicons/head-snippet.html",
+      "purpose": "HTML <head> tags for favicons"
+    },
+    {
+      "path": "assets/social/facebook/facebook-avatar-720x720.svg",
+      "purpose": "Editable template: Facebook Page profile picture",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-avatar-720x720.png",
+      "purpose": "Facebook Page profile picture (720x720)",
+      "alt": "Harbourside Community Trust symbol, full colour on a white background",
+      "logoVariant": "full-colour",
+      "logoContrast": 8.39,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/facebook/facebook-cover-1640x624.svg",
+      "purpose": "Editable template: Facebook Page cover",
+      "note": "Displays at 820x312 on desktop and 640x360 on mobile; mobile crops about 17% from each side, so keep logos and text in the central 64%."
+    },
+    {
+      "path": "assets/social/facebook/facebook-cover-1640x624.png",
+      "purpose": "Facebook Page cover (1640x624)",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": "Displays at 820x312 on desktop and 640x360 on mobile; mobile crops about 17% from each side, so keep logos and text in the central 64%."
+    },
+    {
+      "path": "assets/social/facebook/facebook-feed-portrait-1080x1350.svg",
+      "purpose": "Editable template: Facebook Feed post (4:5)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-feed-portrait-1080x1350.png",
+      "purpose": "Facebook Feed post (4:5) (1080x1350) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-feed-square-1080x1080.svg",
+      "purpose": "Editable template: Facebook Feed post (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-feed-square-1080x1080.png",
+      "purpose": "Facebook Feed post (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-link-1200x630.svg",
+      "purpose": "Editable template: Facebook Link share image",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-link-1200x630.png",
+      "purpose": "Facebook Link share image (1200x630) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-story-1080x1920.svg",
+      "purpose": "Editable template: Facebook Story",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-story-1080x1920.png",
+      "purpose": "Facebook Story (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-event-1920x1005.svg",
+      "purpose": "Editable template: Facebook Event cover",
+      "note": ""
+    },
+    {
+      "path": "assets/social/facebook/facebook-event-1920x1005.png",
+      "purpose": "Facebook Event cover (1920x1005) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-avatar-320x320.svg",
+      "purpose": "Editable template: Instagram Profile picture",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-avatar-320x320.png",
+      "purpose": "Instagram Profile picture (320x320)",
+      "alt": "Harbourside Community Trust symbol, full colour on a white background",
+      "logoVariant": "full-colour",
+      "logoContrast": 8.39,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-square-1080x1080.svg",
+      "purpose": "Editable template: Instagram Feed post (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-square-1080x1080.png",
+      "purpose": "Instagram Feed post (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-1080x1350.svg",
+      "purpose": "Editable template: Instagram Feed post (portrait 4:5)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-1080x1350.png",
+      "purpose": "Instagram Feed post (portrait 4:5) (1080x1350) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-34-1080x1440.svg",
+      "purpose": "Editable template: Instagram Feed post (portrait 3:4)",
+      "note": "Profile grid previews crop to 3:4; keep key content central."
+    },
+    {
+      "path": "assets/social/instagram/instagram-feed-portrait-34-1080x1440.png",
+      "purpose": "Instagram Feed post (portrait 3:4) (1080x1440) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": "Profile grid previews crop to 3:4; keep key content central."
+    },
+    {
+      "path": "assets/social/instagram/instagram-story-1080x1920.svg",
+      "purpose": "Editable template: Instagram Story",
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-story-1080x1920.png",
+      "purpose": "Instagram Story (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/instagram/instagram-reel-1080x1920.svg",
+      "purpose": "Editable template: Instagram Reel / cover",
+      "note": "Reel cover is cropped to 1:1 on the profile grid and 3:4 in previews."
+    },
+    {
+      "path": "assets/social/instagram/instagram-reel-1080x1920.png",
+      "purpose": "Instagram Reel / cover (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": "Reel cover is cropped to 1:1 on the profile grid and 3:4 in previews."
+    },
+    {
+      "path": "assets/social/whatsapp/whatsapp-avatar-640x640.svg",
+      "purpose": "Editable template: WhatsApp Business Business profile picture",
+      "note": ""
+    },
+    {
+      "path": "assets/social/whatsapp/whatsapp-avatar-640x640.png",
+      "purpose": "WhatsApp Business Business profile picture (640x640)",
+      "alt": "Harbourside Community Trust symbol, full colour on a white background",
+      "logoVariant": "full-colour",
+      "logoContrast": 8.39,
+      "note": "Logo sized to sit inside the circular crop."
+    },
+    {
+      "path": "assets/social/whatsapp/whatsapp-status-1080x1920.svg",
+      "purpose": "Editable template: WhatsApp Business Status",
+      "note": ""
+    },
+    {
+      "path": "assets/social/whatsapp/whatsapp-status-1080x1920.png",
+      "purpose": "WhatsApp Business Status (1080x1920) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-avatar-400x400.svg",
+      "purpose": "Editable template: LinkedIn Company page logo",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-avatar-400x400.png",
+      "purpose": "LinkedIn Company page logo (400x400)",
+      "alt": "Harbourside Community Trust symbol, full colour on a white background",
+      "logoVariant": "full-colour",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-cover-1512x256.svg",
+      "purpose": "Editable template: LinkedIn Company page cover",
+      "note": "Displays at about 1128x191; keep the same ~6:1 ratio. Logo overlaps the lower-left on some layouts. Sources disagree on upload size (1512x256 vs 4200x700); verify on LinkedIn's Page image specs."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-cover-1512x256.png",
+      "purpose": "LinkedIn Company page cover (1512x256)",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": "Displays at about 1128x191; keep the same ~6:1 ratio. Logo overlaps the lower-left on some layouts. Sources disagree on upload size (1512x256 vs 4200x700); verify on LinkedIn's Page image specs."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-personal-banner-1584x396.svg",
+      "purpose": "Editable template: LinkedIn Employee profile banner",
+      "note": "Profile photo overlaps the lower-left."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-personal-banner-1584x396.png",
+      "purpose": "LinkedIn Employee profile banner (1584x396)",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": "Profile photo overlaps the lower-left."
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-landscape-1200x627.svg",
+      "purpose": "Editable template: LinkedIn Post image (landscape)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-landscape-1200x627.png",
+      "purpose": "LinkedIn Post image (landscape) (1200x627) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-square-1080x1080.svg",
+      "purpose": "Editable template: LinkedIn Post image (square)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-square-1080x1080.png",
+      "purpose": "LinkedIn Post image (square) (1080x1080) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-portrait-1080x1350.svg",
+      "purpose": "Editable template: LinkedIn Post image (portrait 4:5)",
+      "note": ""
+    },
+    {
+      "path": "assets/social/linkedin/linkedin-post-portrait-1080x1350.png",
+      "purpose": "LinkedIn Post image (portrait 4:5) (1080x1350) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    },
+    {
+      "path": "assets/social/web/web-og-image-1200x630.svg",
+      "purpose": "Editable template: Website sharing (Open Graph) Open Graph / social share image",
+      "note": ""
+    },
+    {
+      "path": "assets/social/web/web-og-image-1200x630.png",
+      "purpose": "Website sharing (Open Graph) Open Graph / social share image (1200x630) layout preview; add the headline using the SVG template",
+      "alt": "Harbourside Community Trust logo, single colour, white (reversed), with cut-out details on a Harbour Blue background",
+      "logoVariant": "mono-light",
+      "logoContrast": 8.39,
+      "note": ""
+    }
+  ],
+  "warnings": [
+    "primary logo has several colours. Plain single-colour versions merge overlapping shapes; knockout versions turn enclosed shapes in ['#f36c5c', '#fefeff', '#9ec8e7'] into holes instead. Inspect both, keep the one that preserves the logo's detail, and ask the designer for official single-colour artwork if neither does.",
+    "symbol logo has several colours. Plain single-colour versions merge overlapping shapes; knockout versions turn enclosed shapes in ['#fefefe', '#f26b5b', '#9ec8e7'] into holes instead. Inspect both, keep the one that preserves the logo's detail, and ask the designer for official single-colour artwork if neither does."
+  ],
+  "skipped": [],
+  "backgroundTests": [
+    {
+      "background": "white",
+      "hex": "#ffffff",
+      "recommendedVariant": "full-colour",
+      "contrast": 2.95,
+      "fullColourContrast": 2.95,
+      "fullColourAllowed": true,
+      "approvedException": true,
+      "file": "assets/logo/backgrounds/logo-on-white.png"
+    },
+    {
+      "background": "light-neutral",
+      "hex": "#f6f7f8",
+      "recommendedVariant": "mono-dark",
+      "contrast": 17.79,
+      "fullColourContrast": 2.75,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-light-neutral.png"
+    },
+    {
+      "background": "primary",
+      "hex": "#1d4e89",
+      "recommendedVariant": "mono-light",
+      "contrast": 8.39,
+      "fullColourContrast": 1.0,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-primary.png"
+    },
+    {
+      "background": "dark",
+      "hex": "#0c1015",
+      "recommendedVariant": "mono-light",
+      "contrast": 19.08,
+      "fullColourContrast": 2.27,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-dark.png"
+    },
+    {
+      "background": "secondary",
+      "hex": "#f36c5c",
+      "recommendedVariant": "mono-dark",
+      "contrast": 6.46,
+      "fullColourContrast": 1.0,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-secondary.png"
+    },
+    {
+      "background": "accent",
+      "hex": "#9ec8e7",
+      "recommendedVariant": "mono-dark",
+      "contrast": 10.78,
+      "fullColourContrast": 1.67,
+      "fullColourAllowed": false,
+      "approvedException": false,
+      "file": "assets/logo/backgrounds/logo-on-accent.png"
+    }
+  ],
+  "platformSpecsReviewed": "2026-10-02"
+}
